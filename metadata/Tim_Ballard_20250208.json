@@ -1,0 +1,35 @@
+{
+    "download_path": "/media/fritz/E4B0-3FC21/2025-05-13",
+    "url": "https://www.facebook.com/officialtimballard/videos/1127892355216463",
+    "task": "perform_download",
+    "metadata_path": "/home/fritz/Desktop/teton/lib/metadata/metadata.json",
+    "video_download": {
+        "cookie_path": "/home/fritz/Desktop/teton/conf/cookies.txt"
+    },
+    "video_title": "Video",
+    "video_date": "20250208",
+    "uploader": "Tim Ballard",
+    "duration": 173.139,
+    "width": 1920,
+    "height": 1080,
+    "ext": "mp4",
+    "resolution": "1920x1080",
+    "fps": null,
+    "tbr": 1641.267,
+    "protocol": "https+https",
+    "vcodec": "vp09.00.40.08.00.02.02.02.00",
+    "vbr": 1564.357,
+    "acodec": "mp4a.40.5",
+    "abr": 76.91,
+    "asr": 48000,
+    "original_filename": "/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250208.mp4",
+    "to_process": "/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250208.mp4",
+    "default_tasks": {
+        "perform_download": "/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250208.mp4",
+        "apply_watermark": true,
+        "make_clips": true,
+        "extract_audio": true,
+        "generate_captions": true,
+        "post_processed": false
+    }
+}

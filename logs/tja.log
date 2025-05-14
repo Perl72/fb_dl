@@ -1,0 +1,2198 @@
+2025-05-13 11:45:03,143 - INFO - Logging initialized.
+2025-05-13 11:45:03,148 - INFO - 🔴 Starting task: perform_download
+2025-05-13 11:45:03,149 - INFO - ✅ Download directory ready: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 11:45:03,149 - INFO - ➡️ Facebook video detected.
+2025-05-13 11:45:03,149 - INFO - Masking metadata
+2025-05-13 11:45:03,149 - INFO - Received parameters for metadata extraction:
+2025-05-13 11:45:03,149 - INFO - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 11:45:03,150 - INFO - cookie_path: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 11:45:03,150 - INFO - url: https://www.facebook.com/share/v/1BS7eN6gBQ/
+2025-05-13 11:45:03,150 - INFO - task: perform_download
+2025-05-13 11:45:03,150 - INFO - ⚠️ No valid cookie file used for metadata extraction.
+2025-05-13 11:45:08,881 - INFO - Extracted and normalized metadata:
+2025-05-13 11:45:08,881 - INFO - video_title: 51K_views_·_4K_reactions_|_We_get_a_lot_of_comments_wondering_why_we_aren't_helping_American_children._We_are!_Along_with_other_children_around_the_world!_We_do_this_because_none..._|_By_Tim_Ballard
+2025-05-13 11:45:08,882 - INFO - video_date: 20250314
+2025-05-13 11:45:08,882 - INFO - uploader: Tim Ballard
+2025-05-13 11:45:08,882 - INFO - duration: 108.831
+2025-05-13 11:45:08,882 - INFO - width: 480
+2025-05-13 11:45:08,882 - INFO - height: 848
+2025-05-13 11:45:08,882 - INFO - ext: mp4
+2025-05-13 11:45:08,882 - INFO - resolution: 480x848
+2025-05-13 11:45:08,882 - INFO - fps: None
+2025-05-13 11:45:08,882 - INFO - tbr: 953.641
+2025-05-13 11:45:08,882 - INFO - protocol: https+https
+2025-05-13 11:45:08,882 - INFO - vcodec: vp09.00.30.08.00.01.01.01.00
+2025-05-13 11:45:08,882 - INFO - vbr: 893.352
+2025-05-13 11:45:08,882 - INFO - acodec: mp4a.40.5
+2025-05-13 11:45:08,882 - INFO - abr: 60.289
+2025-05-13 11:45:08,882 - INFO - asr: 44100
+2025-05-13 11:45:08,887 - INFO - Generated original filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314.mp4
+2025-05-13 11:45:08,887 - INFO - Received parameters: download_video:
+2025-05-13 11:45:08,887 - INFO - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 11:45:08,887 - INFO - cookie_path: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 11:45:08,888 - INFO - url: https://www.facebook.com/share/v/1BS7eN6gBQ/
+2025-05-13 11:45:08,888 - INFO - task: perform_download
+2025-05-13 11:45:08,888 - INFO - video_title: 51K_views_·_4K_reactions_|_We_get_a_lot_of_comments_wondering_why_we_aren't_helping_American_children._We_are!_Along_with_other_children_around_the_world!_We_do_this_because_none..._|_By_Tim_Ballard
+2025-05-13 11:45:08,888 - INFO - video_date: 20250314
+2025-05-13 11:45:08,888 - INFO - uploader: Tim Ballard
+2025-05-13 11:45:08,889 - INFO - duration: 108.831
+2025-05-13 11:45:08,889 - INFO - width: 480
+2025-05-13 11:45:08,889 - INFO - height: 848
+2025-05-13 11:45:08,889 - INFO - ext: mp4
+2025-05-13 11:45:08,890 - INFO - resolution: 480x848
+2025-05-13 11:45:08,890 - INFO - fps: None
+2025-05-13 11:45:08,890 - INFO - tbr: 953.641
+2025-05-13 11:45:08,890 - INFO - protocol: https+https
+2025-05-13 11:45:08,890 - INFO - vcodec: vp09.00.30.08.00.01.01.01.00
+2025-05-13 11:45:08,891 - INFO - vbr: 893.352
+2025-05-13 11:45:08,891 - INFO - acodec: mp4a.40.5
+2025-05-13 11:45:08,891 - INFO - abr: 60.289
+2025-05-13 11:45:08,891 - INFO - asr: 44100
+2025-05-13 11:45:08,891 - INFO - original_filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314.mp4
+2025-05-13 11:45:08,892 - INFO - Starting download for URL: https://www.facebook.com/share/v/1BS7eN6gBQ/
+2025-05-13 11:45:08,892 - INFO - ⚠️ No valid cookie file used.
+2025-05-13 11:45:08,892 - DEBUG - yt-dlp options: {'outtmpl': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314.mp4', 'format': 'bestvideo+bestaudio/best', 'noplaylist': True, 'verbose': True}
+2025-05-13 11:45:09,291 - INFO - About to download video.
+2025-05-13 11:45:21,982 - INFO - Video download completed.
+2025-05-13 11:45:21,987 - INFO - Download completed in 13.10 seconds
+2025-05-13 11:45:22,100 - INFO - Params saved to JSON file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314.json
+2025-05-13 11:45:22,101 - INFO - ✅ Download complete: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314.mp4
+2025-05-13 11:45:22,226 - INFO - 📦 Task metadata updated.
+2025-05-13 13:28:58,339 - INFO - Logging initialized.
+2025-05-13 13:28:58,345 - INFO - 🔴 Starting task: perform_download
+2025-05-13 13:28:58,346 - INFO - ✅ Download directory ready: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 13:28:58,346 - INFO - ➡️ Facebook video detected.
+2025-05-13 13:28:58,346 - INFO - Masking metadata
+2025-05-13 13:28:58,346 - INFO - Received parameters for metadata extraction:
+2025-05-13 13:28:58,346 - INFO - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 13:28:58,346 - INFO - cookie_path: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 13:28:58,346 - INFO - url: https://www.facebook.com/share/v/1BS7eN6gBQ/
+2025-05-13 13:28:58,346 - INFO - task: perform_download
+2025-05-13 13:28:58,346 - INFO - ⚠️ No valid cookie file used for metadata extraction.
+2025-05-13 13:29:08,283 - INFO - Extracted and normalized metadata:
+2025-05-13 13:29:08,284 - INFO - video_title: 51K_views_·_4K_reactions_|_We_get_a_lot_of_comments_wondering_why_we_aren't_helping_American_children._We_are!_Along_with_other_children_around_the_world!_We_do_this_because_none..._|_By_Tim_Ballard
+2025-05-13 13:29:08,284 - INFO - video_date: 20250314
+2025-05-13 13:29:08,284 - INFO - uploader: Tim Ballard
+2025-05-13 13:29:08,284 - INFO - duration: 108.831
+2025-05-13 13:29:08,284 - INFO - width: 480
+2025-05-13 13:29:08,284 - INFO - height: 848
+2025-05-13 13:29:08,285 - INFO - ext: mp4
+2025-05-13 13:29:08,285 - INFO - resolution: 480x848
+2025-05-13 13:29:08,285 - INFO - fps: None
+2025-05-13 13:29:08,285 - INFO - tbr: 953.641
+2025-05-13 13:29:08,285 - INFO - protocol: https+https
+2025-05-13 13:29:08,285 - INFO - vcodec: vp09.00.30.08.00.01.01.01.00
+2025-05-13 13:29:08,285 - INFO - vbr: 893.352
+2025-05-13 13:29:08,285 - INFO - acodec: mp4a.40.5
+2025-05-13 13:29:08,285 - INFO - abr: 60.289
+2025-05-13 13:29:08,285 - INFO - asr: 44100
+2025-05-13 13:29:08,286 - INFO - Generated original filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_2.mp4
+2025-05-13 13:29:08,286 - INFO - Received parameters: download_video:
+2025-05-13 13:29:08,286 - INFO - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 13:29:08,286 - INFO - cookie_path: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 13:29:08,286 - INFO - url: https://www.facebook.com/share/v/1BS7eN6gBQ/
+2025-05-13 13:29:08,286 - INFO - task: perform_download
+2025-05-13 13:29:08,286 - INFO - video_title: 51K_views_·_4K_reactions_|_We_get_a_lot_of_comments_wondering_why_we_aren't_helping_American_children._We_are!_Along_with_other_children_around_the_world!_We_do_this_because_none..._|_By_Tim_Ballard
+2025-05-13 13:29:08,286 - INFO - video_date: 20250314
+2025-05-13 13:29:08,286 - INFO - uploader: Tim Ballard
+2025-05-13 13:29:08,286 - INFO - duration: 108.831
+2025-05-13 13:29:08,286 - INFO - width: 480
+2025-05-13 13:29:08,287 - INFO - height: 848
+2025-05-13 13:29:08,287 - INFO - ext: mp4
+2025-05-13 13:29:08,287 - INFO - resolution: 480x848
+2025-05-13 13:29:08,287 - INFO - fps: None
+2025-05-13 13:29:08,287 - INFO - tbr: 953.641
+2025-05-13 13:29:08,287 - INFO - protocol: https+https
+2025-05-13 13:29:08,287 - INFO - vcodec: vp09.00.30.08.00.01.01.01.00
+2025-05-13 13:29:08,287 - INFO - vbr: 893.352
+2025-05-13 13:29:08,287 - INFO - acodec: mp4a.40.5
+2025-05-13 13:29:08,287 - INFO - abr: 60.289
+2025-05-13 13:29:08,287 - INFO - asr: 44100
+2025-05-13 13:29:08,287 - INFO - original_filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_2.mp4
+2025-05-13 13:29:08,288 - INFO - Starting download for URL: https://www.facebook.com/share/v/1BS7eN6gBQ/
+2025-05-13 13:29:08,288 - INFO - ⚠️ No valid cookie file used.
+2025-05-13 13:29:08,288 - DEBUG - yt-dlp options: {'outtmpl': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_2.mp4', 'format': 'bestvideo+bestaudio/best', 'noplaylist': True, 'verbose': True}
+2025-05-13 13:29:08,437 - INFO - About to download video.
+2025-05-13 13:29:23,168 - INFO - Video download completed.
+2025-05-13 13:29:23,173 - INFO - Download completed in 14.89 seconds
+2025-05-13 13:29:23,384 - INFO - Params saved to JSON file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_2.json
+2025-05-13 13:29:23,385 - INFO - ✅ Download complete: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_2.mp4
+2025-05-13 13:29:23,682 - INFO - 📦 Task metadata updated.
+2025-05-13 13:31:49,858 - INFO - Logging initialized.
+2025-05-13 13:33:04,771 - INFO - Logging initialized.
+2025-05-13 13:33:04,778 - ERROR - Input video file does not exist: https://www.facebook.com/share/v/1BS7eN6gBQ/
+2025-05-13 13:33:41,390 - INFO - Logging initialized.
+2025-05-13 13:33:41,391 - INFO - 🖼 Processing video file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_2.mp4
+2025-05-13 13:33:41,391 - INFO - Loaded metadata from: metadata/Tim_Ballard_20250314_2.json
+2025-05-13 13:33:41,391 - INFO - Starting watermarking process...
+2025-05-13 13:34:57,843 - INFO - ✅ Watermarked video created: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_2_watermarked.mp4
+2025-05-13 13:34:57,844 - DEBUG - Metadata updated: {'output_path': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_2_watermarked.mp4'}
+2025-05-13 13:50:02,539 - INFO - Logging initialized.
+2025-05-13 13:50:02,644 - INFO - 🖼 Processing video file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_2.mp4
+2025-05-13 13:50:02,645 - INFO - Loaded metadata from: metadata/Tim_Ballard_20250314_2.json
+2025-05-13 13:50:02,645 - INFO - Starting watermarking process...
+2025-05-13 13:51:18,940 - INFO - ✅ Watermarked video created: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_2_watermarked.mp4
+2025-05-13 13:51:18,941 - DEBUG - default_tasks updated: {'perform_download': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_2.mp4', 'apply_watermark': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_2_watermarked.mp4', 'make_clips': True, 'extract_audio': True, 'generate_captions': True, 'post_processed': False}
+2025-05-13 13:55:57,693 - INFO - Logging initialized.
+2025-05-13 13:55:57,694 - INFO - 🔁 Task Router Started
+2025-05-13 13:55:57,694 - INFO - 📥 No completed download or metadata found — running downloader...
+2025-05-13 13:55:57,694 - INFO - 📥 Initiating download for: https://www.facebook.com/share/v/1BS7eN6gBQ/
+2025-05-13 13:55:58,175 - INFO - Logging initialized.
+2025-05-13 13:55:58,176 - INFO - 🔴 Starting task: perform_download
+2025-05-13 13:55:58,176 - INFO - ✅ Download directory ready: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 13:55:58,176 - INFO - ➡️ Facebook video detected.
+2025-05-13 13:55:58,176 - INFO - Masking metadata
+2025-05-13 13:55:58,176 - INFO - Received parameters for metadata extraction:
+2025-05-13 13:55:58,176 - INFO - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 13:55:58,176 - INFO - cookie_path: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 13:55:58,176 - INFO - url: https://www.facebook.com/share/v/1BS7eN6gBQ/
+2025-05-13 13:55:58,176 - INFO - task: perform_download
+2025-05-13 13:55:58,176 - INFO - ⚠️ No valid cookie file used for metadata extraction.
+2025-05-13 13:56:03,417 - INFO - Extracted and normalized metadata:
+2025-05-13 13:56:03,419 - INFO - video_title: 51K_views_·_4K_reactions_|_We_get_a_lot_of_comments_wondering_why_we_aren't_helping_American_children._We_are!_Along_with_other_children_around_the_world!_We_do_this_because_none..._|_By_Tim_Ballard
+2025-05-13 13:56:03,419 - INFO - video_date: 20250314
+2025-05-13 13:56:03,419 - INFO - uploader: Tim Ballard
+2025-05-13 13:56:03,419 - INFO - duration: 108.831
+2025-05-13 13:56:03,420 - INFO - width: 480
+2025-05-13 13:56:03,420 - INFO - height: 848
+2025-05-13 13:56:03,420 - INFO - ext: mp4
+2025-05-13 13:56:03,420 - INFO - resolution: 480x848
+2025-05-13 13:56:03,420 - INFO - fps: None
+2025-05-13 13:56:03,420 - INFO - tbr: 953.641
+2025-05-13 13:56:03,420 - INFO - protocol: https+https
+2025-05-13 13:56:03,420 - INFO - vcodec: vp09.00.30.08.00.01.01.01.00
+2025-05-13 13:56:03,421 - INFO - vbr: 893.352
+2025-05-13 13:56:03,421 - INFO - acodec: mp4a.40.5
+2025-05-13 13:56:03,421 - INFO - abr: 60.289
+2025-05-13 13:56:03,421 - INFO - asr: 44100
+2025-05-13 13:56:03,421 - INFO - Generated original filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_3.mp4
+2025-05-13 13:56:03,421 - INFO - Received parameters: download_video:
+2025-05-13 13:56:03,421 - INFO - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 13:56:03,422 - INFO - cookie_path: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 13:56:03,422 - INFO - url: https://www.facebook.com/share/v/1BS7eN6gBQ/
+2025-05-13 13:56:03,422 - INFO - task: perform_download
+2025-05-13 13:56:03,422 - INFO - video_title: 51K_views_·_4K_reactions_|_We_get_a_lot_of_comments_wondering_why_we_aren't_helping_American_children._We_are!_Along_with_other_children_around_the_world!_We_do_this_because_none..._|_By_Tim_Ballard
+2025-05-13 13:56:03,422 - INFO - video_date: 20250314
+2025-05-13 13:56:03,422 - INFO - uploader: Tim Ballard
+2025-05-13 13:56:03,422 - INFO - duration: 108.831
+2025-05-13 13:56:03,422 - INFO - width: 480
+2025-05-13 13:56:03,422 - INFO - height: 848
+2025-05-13 13:56:03,422 - INFO - ext: mp4
+2025-05-13 13:56:03,423 - INFO - resolution: 480x848
+2025-05-13 13:56:03,423 - INFO - fps: None
+2025-05-13 13:56:03,423 - INFO - tbr: 953.641
+2025-05-13 13:56:03,423 - INFO - protocol: https+https
+2025-05-13 13:56:03,423 - INFO - vcodec: vp09.00.30.08.00.01.01.01.00
+2025-05-13 13:56:03,423 - INFO - vbr: 893.352
+2025-05-13 13:56:03,423 - INFO - acodec: mp4a.40.5
+2025-05-13 13:56:03,423 - INFO - abr: 60.289
+2025-05-13 13:56:03,423 - INFO - asr: 44100
+2025-05-13 13:56:03,423 - INFO - original_filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_3.mp4
+2025-05-13 13:56:03,423 - INFO - Starting download for URL: https://www.facebook.com/share/v/1BS7eN6gBQ/
+2025-05-13 13:56:03,424 - INFO - ⚠️ No valid cookie file used.
+2025-05-13 13:56:03,424 - DEBUG - yt-dlp options: {'outtmpl': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_3.mp4', 'format': 'bestvideo+bestaudio/best', 'noplaylist': True, 'verbose': True}
+2025-05-13 13:56:03,776 - INFO - About to download video.
+2025-05-13 13:56:17,498 - INFO - Video download completed.
+2025-05-13 13:56:17,503 - INFO - Download completed in 14.08 seconds
+2025-05-13 13:56:17,616 - INFO - Params saved to JSON file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_3.json
+2025-05-13 13:56:17,616 - INFO - ✅ Download complete: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_3.mp4
+2025-05-13 13:56:17,747 - INFO - 📦 Task metadata updated.
+2025-05-13 13:56:17,847 - INFO - Download stdout:
+2025-05-13 13:55:58,175 - Logging initialized.
+2025-05-13 13:55:58,176 - 🔴 Starting task: perform_download
+2025-05-13 13:55:58,176 - ✅ Download directory ready: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 13:55:58,176 - ➡️ Facebook video detected.
+2025-05-13 13:55:58,176 - Masking metadata
+2025-05-13 13:55:58,176 - Received parameters for metadata extraction:
+2025-05-13 13:55:58,176 - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 13:55:58,176 - cookie_path: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 13:55:58,176 - url: https://www.facebook.com/share/v/1BS7eN6gBQ/
+2025-05-13 13:55:58,176 - task: perform_download
+2025-05-13 13:55:58,176 - ⚠️ No valid cookie file used for metadata extraction.
+[generic] Extracting URL: https://www.facebook.com/share/v/1BS7eN6gBQ/
+[generic] 1BS7eN6gBQ: Downloading webpage
+[redirect] Following redirect to https://www.facebook.com/officialtimballard/videos/654271643677159/?rdid=cx0xBosXoD0FQdAG&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fv%2F1BS7eN6gBQ%2F
+[facebook] Extracting URL: https://www.facebook.com/officialtimballard/videos/654271643677159/?rdid=cx0xBosXoD0FQdAG&share_u...%2Fv%2F1BS7eN6gBQ%2F
+[facebook] 654271643677159: Downloading webpage
+2025-05-13 13:56:03,417 - Extracted and normalized metadata:
+2025-05-13 13:56:03,419 - video_title: 51K_views_·_4K_reactions_|_We_get_a_lot_of_comments_wondering_why_we_aren't_helping_American_children._We_are!_Along_with_other_children_around_the_world!_We_do_this_because_none..._|_By_Tim_Ballard
+2025-05-13 13:56:03,419 - video_date: 20250314
+2025-05-13 13:56:03,419 - uploader: Tim Ballard
+2025-05-13 13:56:03,419 - duration: 108.831
+2025-05-13 13:56:03,420 - width: 480
+2025-05-13 13:56:03,420 - height: 848
+2025-05-13 13:56:03,420 - ext: mp4
+2025-05-13 13:56:03,420 - resolution: 480x848
+2025-05-13 13:56:03,420 - fps: None
+2025-05-13 13:56:03,420 - tbr: 953.641
+2025-05-13 13:56:03,420 - protocol: https+https
+2025-05-13 13:56:03,420 - vcodec: vp09.00.30.08.00.01.01.01.00
+2025-05-13 13:56:03,421 - vbr: 893.352
+2025-05-13 13:56:03,421 - acodec: mp4a.40.5
+2025-05-13 13:56:03,421 - abr: 60.289
+2025-05-13 13:56:03,421 - asr: 44100
+2025-05-13 13:56:03,421 - Generated original filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_3.mp4
+2025-05-13 13:56:03,421 - Received parameters: download_video:
+2025-05-13 13:56:03,421 - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 13:56:03,422 - cookie_path: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 13:56:03,422 - url: https://www.facebook.com/share/v/1BS7eN6gBQ/
+2025-05-13 13:56:03,422 - task: perform_download
+2025-05-13 13:56:03,422 - video_title: 51K_views_·_4K_reactions_|_We_get_a_lot_of_comments_wondering_why_we_aren't_helping_American_children._We_are!_Along_with_other_children_around_the_world!_We_do_this_because_none..._|_By_Tim_Ballard
+2025-05-13 13:56:03,422 - video_date: 20250314
+2025-05-13 13:56:03,422 - uploader: Tim Ballard
+2025-05-13 13:56:03,422 - duration: 108.831
+2025-05-13 13:56:03,422 - width: 480
+2025-05-13 13:56:03,422 - height: 848
+2025-05-13 13:56:03,422 - ext: mp4
+2025-05-13 13:56:03,423 - resolution: 480x848
+2025-05-13 13:56:03,423 - fps: None
+2025-05-13 13:56:03,423 - tbr: 953.641
+2025-05-13 13:56:03,423 - protocol: https+https
+2025-05-13 13:56:03,423 - vcodec: vp09.00.30.08.00.01.01.01.00
+2025-05-13 13:56:03,423 - vbr: 893.352
+2025-05-13 13:56:03,423 - acodec: mp4a.40.5
+2025-05-13 13:56:03,423 - abr: 60.289
+2025-05-13 13:56:03,423 - asr: 44100
+2025-05-13 13:56:03,423 - original_filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_3.mp4
+2025-05-13 13:56:03,423 - Starting download for URL: https://www.facebook.com/share/v/1BS7eN6gBQ/
+2025-05-13 13:56:03,424 - ⚠️ No valid cookie file used.
+2025-05-13 13:56:03,776 - About to download video.
+[generic] Extracting URL: https://www.facebook.com/share/v/1BS7eN6gBQ/
+[generic] 1BS7eN6gBQ: Downloading webpage
+[redirect] Following redirect to https://www.facebook.com/officialtimballard/videos/654271643677159/?rdid=D7Tr5tJY6R6U4EpC&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fv%2F1BS7eN6gBQ%2F
+[facebook] Extracting URL: https://www.facebook.com/officialtimballard/videos/654271643677159/?rdid=D7Tr5tJY6R6U4EpC&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fv%2F1BS7eN6gBQ%2F
+[facebook] 654271643677159: Downloading webpage
+[info] 654271643677159: Downloading 1 format(s): 1177062269936577v+1893588641468336a
+[download] Destination: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_3.f1177062269936577v.mp4
+
+[download]   0.0% of   11.59MiB at  992.26KiB/s ETA 00:12
+[download]   0.0% of   11.59MiB at   85.64KiB/s ETA 02:18
+[download]   0.1% of   11.59MiB at  189.69KiB/s ETA 01:02
+[download]   0.1% of   11.59MiB at  384.48KiB/s ETA 00:30
+[download]   0.3% of   11.59MiB at  494.31KiB/s ETA 00:23
+[download]   0.5% of   11.59MiB at  519.24KiB/s ETA 00:22
+[download]   1.1% of   11.59MiB at  655.44KiB/s ETA 00:17
+[download]   2.1% of   11.59MiB at  879.90KiB/s ETA 00:13
+[download]   4.3% of   11.59MiB at    1.18MiB/s ETA 00:09
+[download]   8.6% of   11.59MiB at    1.12MiB/s ETA 00:09
+[download]  17.3% of   11.59MiB at    1.60MiB/s ETA 00:06
+[download]  34.5% of   11.59MiB at    2.09MiB/s ETA 00:03
+[download]  60.7% of   11.59MiB at    2.63MiB/s ETA 00:01
+[download]  94.9% of   11.59MiB at    3.13MiB/s ETA 00:00
+[download] 100.0% of   11.59MiB at    3.24MiB/s ETA 00:00
+[download] 100% of   11.59MiB in 00:00:09 at 1.27MiB/s   
+[download] Destination: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_3.f1893588641468336a.m4a
+
+[download]   0.1% of  802.42KiB at  434.15KiB/s ETA 00:01
+[download]   0.4% of  802.42KiB at  558.60KiB/s ETA 00:01
+[download]   0.9% of  802.42KiB at  999.53KiB/s ETA 00:00
+[download]   1.9% of  802.42KiB at    1.71MiB/s ETA 00:00
+[download]   3.9% of  802.42KiB at    2.96MiB/s ETA 00:00
+[download]   7.9% of  802.42KiB at    5.06MiB/s ETA 00:00
+[download]  15.8% of  802.42KiB at    8.44MiB/s ETA 00:00
+[download]  31.8% of  802.42KiB at    1.53MiB/s ETA 00:00
+[download]  63.7% of  802.42KiB at    1.99MiB/s ETA 00:00
+[download] 100.0% of  802.42KiB at    2.80MiB/s ETA 00:00
+[download] 100% of  802.42KiB in 00:00:00 at 935.80KiB/s 
+[Merger] Merging formats into "/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_3.mp4"
+Deleting original file /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_3.f1177062269936577v.mp4 (pass -k to keep)
+Deleting original file /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_3.f1893588641468336a.m4a (pass -k to keep)
+2025-05-13 13:56:17,498 - Video download completed.
+2025-05-13 13:56:17,503 - Download completed in 14.08 seconds
+2025-05-13 13:56:17,616 - Params saved to JSON file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_3.json
+2025-05-13 13:56:17,616 - ✅ Download complete: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_3.mp4
+/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_3.mp4
+2025-05-13 13:56:17,747 - 📦 Task metadata updated.
+/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_3.mp4
+
+2025-05-13 13:56:17,848 - INFO - 🛠 Tasks to evaluate: ['perform_download', 'apply_watermark', 'make_clips', 'extract_audio', 'generate_captions', 'post_processed']
+2025-05-13 13:56:18,535 - INFO - Logging initialized.
+2025-05-13 13:56:18,536 - INFO - 🖼 Processing video file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_3.mp4
+2025-05-13 13:56:18,536 - INFO - Loaded metadata from: metadata/Tim_Ballard_20250314_3.json
+2025-05-13 13:56:18,536 - INFO - Starting watermarking process...
+2025-05-13 13:57:34,750 - INFO - ✅ Watermarked video created: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_3_watermarked.mp4
+2025-05-13 13:57:34,771 - DEBUG - default_tasks updated: {'perform_download': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_3.mp4', 'apply_watermark': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_3_watermarked.mp4', 'make_clips': True, 'extract_audio': True, 'generate_captions': True, 'post_processed': False}
+2025-05-13 15:28:11,058 - INFO - Logging initialized.
+2025-05-13 15:28:11,059 - INFO - 🔁 Task Router Started
+2025-05-13 15:28:11,059 - INFO - 📥 No completed download or metadata found — running downloader...
+2025-05-13 15:28:11,059 - INFO - 📥 Initiating download for: https://www.facebook.com/share/v/1BS7eN6gBQ/
+2025-05-13 15:28:11,520 - INFO - Logging initialized.
+2025-05-13 15:28:11,520 - INFO - 🔴 Starting task: perform_download
+2025-05-13 15:28:11,520 - INFO - ✅ Download directory ready: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 15:28:11,520 - INFO - ➡️ Facebook video detected.
+2025-05-13 15:28:11,520 - INFO - Masking metadata
+2025-05-13 15:28:11,520 - INFO - Received parameters for metadata extraction:
+2025-05-13 15:28:11,520 - INFO - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 15:28:11,520 - INFO - cookie_path: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 15:28:11,520 - INFO - url: https://www.facebook.com/share/v/1BS7eN6gBQ/
+2025-05-13 15:28:11,520 - INFO - task: perform_download
+2025-05-13 15:28:11,521 - INFO - ⚠️ No valid cookie file used for metadata extraction.
+2025-05-13 15:28:14,430 - INFO - Extracted and normalized metadata:
+2025-05-13 15:28:14,431 - INFO - video_title: 51K_views_·_4K_reactions_|_We_get_a_lot_of_comments_wondering_why_we_aren't_helping_American_children._We_are!_Along_with_other_children_around_the_world!_We_do_this_because_none..._|_By_Tim_Ballard
+2025-05-13 15:28:14,431 - INFO - video_date: 20250314
+2025-05-13 15:28:14,431 - INFO - uploader: Tim Ballard
+2025-05-13 15:28:14,431 - INFO - duration: 108.831
+2025-05-13 15:28:14,431 - INFO - width: 480
+2025-05-13 15:28:14,431 - INFO - height: 848
+2025-05-13 15:28:14,431 - INFO - ext: mp4
+2025-05-13 15:28:14,431 - INFO - resolution: 480x848
+2025-05-13 15:28:14,431 - INFO - fps: None
+2025-05-13 15:28:14,431 - INFO - tbr: 953.641
+2025-05-13 15:28:14,431 - INFO - protocol: https+https
+2025-05-13 15:28:14,431 - INFO - vcodec: vp09.00.30.08.00.01.01.01.00
+2025-05-13 15:28:14,431 - INFO - vbr: 893.352
+2025-05-13 15:28:14,431 - INFO - acodec: mp4a.40.5
+2025-05-13 15:28:14,431 - INFO - abr: 60.289
+2025-05-13 15:28:14,431 - INFO - asr: 44100
+2025-05-13 15:28:14,432 - INFO - Generated original filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_4.mp4
+2025-05-13 15:28:14,432 - INFO - Received parameters: download_video:
+2025-05-13 15:28:14,432 - INFO - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 15:28:14,432 - INFO - cookie_path: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 15:28:14,432 - INFO - url: https://www.facebook.com/share/v/1BS7eN6gBQ/
+2025-05-13 15:28:14,432 - INFO - task: perform_download
+2025-05-13 15:28:14,432 - INFO - video_title: 51K_views_·_4K_reactions_|_We_get_a_lot_of_comments_wondering_why_we_aren't_helping_American_children._We_are!_Along_with_other_children_around_the_world!_We_do_this_because_none..._|_By_Tim_Ballard
+2025-05-13 15:28:14,432 - INFO - video_date: 20250314
+2025-05-13 15:28:14,432 - INFO - uploader: Tim Ballard
+2025-05-13 15:28:14,432 - INFO - duration: 108.831
+2025-05-13 15:28:14,432 - INFO - width: 480
+2025-05-13 15:28:14,432 - INFO - height: 848
+2025-05-13 15:28:14,432 - INFO - ext: mp4
+2025-05-13 15:28:14,432 - INFO - resolution: 480x848
+2025-05-13 15:28:14,432 - INFO - fps: None
+2025-05-13 15:28:14,432 - INFO - tbr: 953.641
+2025-05-13 15:28:14,432 - INFO - protocol: https+https
+2025-05-13 15:28:14,433 - INFO - vcodec: vp09.00.30.08.00.01.01.01.00
+2025-05-13 15:28:14,433 - INFO - vbr: 893.352
+2025-05-13 15:28:14,433 - INFO - acodec: mp4a.40.5
+2025-05-13 15:28:14,433 - INFO - abr: 60.289
+2025-05-13 15:28:14,433 - INFO - asr: 44100
+2025-05-13 15:28:14,433 - INFO - original_filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_4.mp4
+2025-05-13 15:28:14,433 - INFO - Starting download for URL: https://www.facebook.com/share/v/1BS7eN6gBQ/
+2025-05-13 15:28:14,433 - INFO - ⚠️ No valid cookie file used.
+2025-05-13 15:28:14,433 - DEBUG - yt-dlp options: {'outtmpl': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_4.mp4', 'format': 'bestvideo+bestaudio/best', 'noplaylist': True, 'verbose': True}
+2025-05-13 15:28:14,571 - INFO - About to download video.
+2025-05-13 15:28:27,406 - INFO - Video download completed.
+2025-05-13 15:28:27,411 - INFO - Download completed in 12.98 seconds
+2025-05-13 15:28:27,528 - INFO - Params saved to JSON file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_4.json
+2025-05-13 15:28:27,528 - INFO - ✅ Download complete: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_4.mp4
+2025-05-13 15:28:27,642 - INFO - 📦 Task metadata updated.
+2025-05-13 15:28:27,742 - INFO - Download stdout:
+2025-05-13 15:28:11,520 - Logging initialized.
+2025-05-13 15:28:11,520 - 🔴 Starting task: perform_download
+2025-05-13 15:28:11,520 - ✅ Download directory ready: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 15:28:11,520 - ➡️ Facebook video detected.
+2025-05-13 15:28:11,520 - Masking metadata
+2025-05-13 15:28:11,520 - Received parameters for metadata extraction:
+2025-05-13 15:28:11,520 - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 15:28:11,520 - cookie_path: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 15:28:11,520 - url: https://www.facebook.com/share/v/1BS7eN6gBQ/
+2025-05-13 15:28:11,520 - task: perform_download
+2025-05-13 15:28:11,521 - ⚠️ No valid cookie file used for metadata extraction.
+[generic] Extracting URL: https://www.facebook.com/share/v/1BS7eN6gBQ/
+[generic] 1BS7eN6gBQ: Downloading webpage
+[redirect] Following redirect to https://www.facebook.com/officialtimballard/videos/654271643677159/?rdid=Hd0WE0kLn7Aa0yil&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fv%2F1BS7eN6gBQ%2F
+[facebook] Extracting URL: https://www.facebook.com/officialtimballard/videos/654271643677159/?rdid=Hd0WE0kLn7Aa0yil&share_u...%2Fv%2F1BS7eN6gBQ%2F
+[facebook] 654271643677159: Downloading webpage
+2025-05-13 15:28:14,430 - Extracted and normalized metadata:
+2025-05-13 15:28:14,431 - video_title: 51K_views_·_4K_reactions_|_We_get_a_lot_of_comments_wondering_why_we_aren't_helping_American_children._We_are!_Along_with_other_children_around_the_world!_We_do_this_because_none..._|_By_Tim_Ballard
+2025-05-13 15:28:14,431 - video_date: 20250314
+2025-05-13 15:28:14,431 - uploader: Tim Ballard
+2025-05-13 15:28:14,431 - duration: 108.831
+2025-05-13 15:28:14,431 - width: 480
+2025-05-13 15:28:14,431 - height: 848
+2025-05-13 15:28:14,431 - ext: mp4
+2025-05-13 15:28:14,431 - resolution: 480x848
+2025-05-13 15:28:14,431 - fps: None
+2025-05-13 15:28:14,431 - tbr: 953.641
+2025-05-13 15:28:14,431 - protocol: https+https
+2025-05-13 15:28:14,431 - vcodec: vp09.00.30.08.00.01.01.01.00
+2025-05-13 15:28:14,431 - vbr: 893.352
+2025-05-13 15:28:14,431 - acodec: mp4a.40.5
+2025-05-13 15:28:14,431 - abr: 60.289
+2025-05-13 15:28:14,431 - asr: 44100
+2025-05-13 15:28:14,432 - Generated original filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_4.mp4
+2025-05-13 15:28:14,432 - Received parameters: download_video:
+2025-05-13 15:28:14,432 - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 15:28:14,432 - cookie_path: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 15:28:14,432 - url: https://www.facebook.com/share/v/1BS7eN6gBQ/
+2025-05-13 15:28:14,432 - task: perform_download
+2025-05-13 15:28:14,432 - video_title: 51K_views_·_4K_reactions_|_We_get_a_lot_of_comments_wondering_why_we_aren't_helping_American_children._We_are!_Along_with_other_children_around_the_world!_We_do_this_because_none..._|_By_Tim_Ballard
+2025-05-13 15:28:14,432 - video_date: 20250314
+2025-05-13 15:28:14,432 - uploader: Tim Ballard
+2025-05-13 15:28:14,432 - duration: 108.831
+2025-05-13 15:28:14,432 - width: 480
+2025-05-13 15:28:14,432 - height: 848
+2025-05-13 15:28:14,432 - ext: mp4
+2025-05-13 15:28:14,432 - resolution: 480x848
+2025-05-13 15:28:14,432 - fps: None
+2025-05-13 15:28:14,432 - tbr: 953.641
+2025-05-13 15:28:14,432 - protocol: https+https
+2025-05-13 15:28:14,433 - vcodec: vp09.00.30.08.00.01.01.01.00
+2025-05-13 15:28:14,433 - vbr: 893.352
+2025-05-13 15:28:14,433 - acodec: mp4a.40.5
+2025-05-13 15:28:14,433 - abr: 60.289
+2025-05-13 15:28:14,433 - asr: 44100
+2025-05-13 15:28:14,433 - original_filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_4.mp4
+2025-05-13 15:28:14,433 - Starting download for URL: https://www.facebook.com/share/v/1BS7eN6gBQ/
+2025-05-13 15:28:14,433 - ⚠️ No valid cookie file used.
+2025-05-13 15:28:14,571 - About to download video.
+[generic] Extracting URL: https://www.facebook.com/share/v/1BS7eN6gBQ/
+[generic] 1BS7eN6gBQ: Downloading webpage
+[redirect] Following redirect to https://www.facebook.com/officialtimballard/videos/654271643677159/?rdid=0VbsrzfPP9b9Sz92&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fv%2F1BS7eN6gBQ%2F
+[facebook] Extracting URL: https://www.facebook.com/officialtimballard/videos/654271643677159/?rdid=0VbsrzfPP9b9Sz92&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fv%2F1BS7eN6gBQ%2F
+[facebook] 654271643677159: Downloading webpage
+[info] 654271643677159: Downloading 1 format(s): 1177062269936577v+1893588641468336a
+[download] Destination: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_4.f1177062269936577v.mp4
+
+[download]   0.0% of   11.59MiB at  909.04KiB/s ETA 00:13
+[download]   0.0% of   11.59MiB at   49.41KiB/s ETA 04:00
+[download]   0.1% of   11.59MiB at  112.12KiB/s ETA 01:45
+[download]   0.1% of   11.59MiB at  233.38KiB/s ETA 00:50
+[download]   0.3% of   11.59MiB at  392.73KiB/s ETA 00:30
+[download]   0.5% of   11.59MiB at  491.64KiB/s ETA 00:24
+[download]   1.1% of   11.59MiB at  677.65KiB/s ETA 00:17
+[download]   2.1% of   11.59MiB at  985.04KiB/s ETA 00:11
+[download]   4.3% of   11.59MiB at    1.25MiB/s ETA 00:08
+[download]   8.6% of   11.59MiB at    1.93MiB/s ETA 00:05
+[download]  17.3% of   11.59MiB at    2.90MiB/s ETA 00:03
+[download]  34.5% of   11.59MiB at    3.90MiB/s ETA 00:01
+[download]  69.0% of   11.59MiB at    4.60MiB/s ETA 00:00
+[download] 100.0% of   11.59MiB at    4.98MiB/s ETA 00:00
+[download] 100% of   11.59MiB in 00:00:06 at 1.84MiB/s   
+[download] Destination: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_4.f1893588641468336a.m4a
+
+[download]   0.1% of  802.42KiB at  Unknown B/s ETA Unknown
+[download]   0.4% of  802.42KiB at  874.97KiB/s ETA 00:00  
+[download]   0.9% of  802.42KiB at    1.08MiB/s ETA 00:00
+[download]   1.9% of  802.42KiB at    1.78MiB/s ETA 00:00
+[download]   3.9% of  802.42KiB at    2.89MiB/s ETA 00:00
+[download]   7.9% of  802.42KiB at    4.64MiB/s ETA 00:00
+[download]  15.8% of  802.42KiB at    7.60MiB/s ETA 00:00
+[download]  31.8% of  802.42KiB at  157.61KiB/s ETA 00:03
+[download]  41.7% of  802.42KiB at  204.82KiB/s ETA 00:02
+[download]  61.7% of  802.42KiB at  289.54KiB/s ETA 00:01
+[download] 100.0% of  802.42KiB at  428.60KiB/s ETA 00:00
+[download] 100% of  802.42KiB in 00:00:02 at 305.66KiB/s 
+[Merger] Merging formats into "/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_4.mp4"
+Deleting original file /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_4.f1893588641468336a.m4a (pass -k to keep)
+Deleting original file /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_4.f1177062269936577v.mp4 (pass -k to keep)
+2025-05-13 15:28:27,406 - Video download completed.
+2025-05-13 15:28:27,411 - Download completed in 12.98 seconds
+2025-05-13 15:28:27,528 - Params saved to JSON file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_4.json
+2025-05-13 15:28:27,528 - ✅ Download complete: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_4.mp4
+/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_4.mp4
+2025-05-13 15:28:27,642 - 📦 Task metadata updated.
+/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_4.mp4
+
+2025-05-13 15:28:27,744 - INFO - 🛠 Tasks to evaluate: ['perform_download', 'apply_watermark', 'make_clips', 'extract_audio', 'generate_captions', 'post_processed']
+2025-05-13 15:28:28,408 - INFO - Logging initialized.
+2025-05-13 15:28:28,409 - INFO - 🖼 Processing video file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_4.mp4
+2025-05-13 15:28:28,409 - INFO - Loaded metadata from: metadata/Tim_Ballard_20250314_4.json
+2025-05-13 15:28:28,409 - INFO - Starting watermarking process...
+2025-05-13 15:29:40,216 - INFO - ✅ Watermarked video created: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_4_watermarked.mp4
+2025-05-13 15:29:40,232 - DEBUG - default_tasks updated: {'perform_download': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_4.mp4', 'apply_watermark': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250314_4_watermarked.mp4', 'make_clips': True, 'extract_audio': True, 'generate_captions': True, 'post_processed': False}
+2025-05-13 15:58:53,233 - INFO - Logging initialized.
+2025-05-13 15:58:53,265 - INFO - 🔁 Task Router Started
+2025-05-13 15:58:53,292 - INFO - 📥 No completed download or metadata found — running downloader...
+2025-05-13 15:58:53,292 - INFO - 📥 Initiating download for: https://www.facebook.com/reel/7270335216383459
+2025-05-13 15:58:54,043 - INFO - Logging initialized.
+2025-05-13 15:58:54,044 - INFO - 🔴 Starting task: perform_download
+2025-05-13 15:58:54,044 - INFO - ✅ Download directory ready: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 15:58:54,044 - INFO - ➡️ Facebook video detected.
+2025-05-13 15:58:54,044 - INFO - Masking metadata
+2025-05-13 15:58:54,044 - INFO - Received parameters for metadata extraction:
+2025-05-13 15:58:54,044 - INFO - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 15:58:54,045 - INFO - cookie_path: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 15:58:54,045 - INFO - url: https://www.facebook.com/reel/7270335216383459
+2025-05-13 15:58:54,045 - INFO - task: perform_download
+2025-05-13 15:58:54,045 - INFO - ⚠️ No valid cookie file used for metadata extraction.
+2025-05-13 15:58:59,572 - INFO - Extracted and normalized metadata:
+2025-05-13 15:58:59,579 - INFO - video_title: 1.8M_views_·_50K_reactions_|_If_your_price_is_not_your_life,_then_you_are_for_sale._If_you’re_a_truth_teller,_your_price_has_to_be_your_life._@ericmetaxas_Socrates_in_the_City_2.29.24_|_James_O'Keefe
+2025-05-13 15:58:59,579 - INFO - video_date: 20240319
+2025-05-13 15:58:59,579 - INFO - uploader: 1.8M views &#xb7; 50K reactions | If your price is not your life, then you are for sale. If you&#x2019;re a truth teller, your price has to be your life.
+&#064;ericmetaxas Socrates in the City 2.29.24 | James O&#039;Keefe
+2025-05-13 15:58:59,580 - INFO - duration: 46.917
+2025-05-13 15:58:59,580 - INFO - width: 720
+2025-05-13 15:58:59,581 - INFO - height: 1280
+2025-05-13 15:58:59,581 - INFO - ext: mp4
+2025-05-13 15:58:59,582 - INFO - resolution: 720x1280
+2025-05-13 15:58:59,582 - INFO - fps: None
+2025-05-13 15:58:59,582 - INFO - tbr: 1303.985
+2025-05-13 15:58:59,583 - INFO - protocol: https+https
+2025-05-13 15:58:59,583 - INFO - vcodec: avc1.64001f
+2025-05-13 15:58:59,583 - INFO - vbr: 1228.26
+2025-05-13 15:58:59,584 - INFO - acodec: mp4a.40.5
+2025-05-13 15:58:59,584 - INFO - abr: 75.725
+2025-05-13 15:58:59,584 - INFO - asr: 44100
+2025-05-13 15:58:59,631 - INFO - Generated original filename: /media/fritz/E4B0-3FC21/2025-05-13/1.8M_views_&#xb7;_50K_reactions_|_If_your_price_is_not_your_life,_then_you_are_for_sale._If_you&#x2019;re_a_truth_teller,_your_price_has_to_be_your_life.
+&#064;ericmetaxas_Socrates_in_the_City_2.29.24_|_James_O&#039;Keefe_20240319.mp4
+2025-05-13 15:58:59,631 - INFO - Received parameters: download_video:
+2025-05-13 15:58:59,631 - INFO - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 15:58:59,631 - INFO - cookie_path: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 15:58:59,632 - INFO - url: https://www.facebook.com/reel/7270335216383459
+2025-05-13 15:58:59,632 - INFO - task: perform_download
+2025-05-13 15:58:59,632 - INFO - video_title: 1.8M_views_·_50K_reactions_|_If_your_price_is_not_your_life,_then_you_are_for_sale._If_you’re_a_truth_teller,_your_price_has_to_be_your_life._@ericmetaxas_Socrates_in_the_City_2.29.24_|_James_O'Keefe
+2025-05-13 15:58:59,632 - INFO - video_date: 20240319
+2025-05-13 15:58:59,632 - INFO - uploader: 1.8M views &#xb7; 50K reactions | If your price is not your life, then you are for sale. If you&#x2019;re a truth teller, your price has to be your life.
+&#064;ericmetaxas Socrates in the City 2.29.24 | James O&#039;Keefe
+2025-05-13 15:58:59,632 - INFO - duration: 46.917
+2025-05-13 15:58:59,632 - INFO - width: 720
+2025-05-13 15:58:59,633 - INFO - height: 1280
+2025-05-13 15:58:59,633 - INFO - ext: mp4
+2025-05-13 15:58:59,633 - INFO - resolution: 720x1280
+2025-05-13 15:58:59,633 - INFO - fps: None
+2025-05-13 15:58:59,633 - INFO - tbr: 1303.985
+2025-05-13 15:58:59,633 - INFO - protocol: https+https
+2025-05-13 15:58:59,634 - INFO - vcodec: avc1.64001f
+2025-05-13 15:58:59,634 - INFO - vbr: 1228.26
+2025-05-13 15:58:59,634 - INFO - acodec: mp4a.40.5
+2025-05-13 15:58:59,634 - INFO - abr: 75.725
+2025-05-13 15:58:59,634 - INFO - asr: 44100
+2025-05-13 15:58:59,634 - INFO - original_filename: /media/fritz/E4B0-3FC21/2025-05-13/1.8M_views_&#xb7;_50K_reactions_|_If_your_price_is_not_your_life,_then_you_are_for_sale._If_you&#x2019;re_a_truth_teller,_your_price_has_to_be_your_life.
+&#064;ericmetaxas_Socrates_in_the_City_2.29.24_|_James_O&#039;Keefe_20240319.mp4
+2025-05-13 15:58:59,634 - INFO - Starting download for URL: https://www.facebook.com/reel/7270335216383459
+2025-05-13 15:58:59,635 - INFO - ⚠️ No valid cookie file used.
+2025-05-13 15:58:59,635 - DEBUG - yt-dlp options: {'outtmpl': '/media/fritz/E4B0-3FC21/2025-05-13/1.8M_views_&#xb7;_50K_reactions_|_If_your_price_is_not_your_life,_then_you_are_for_sale._If_you&#x2019;re_a_truth_teller,_your_price_has_to_be_your_life.\n&#064;ericmetaxas_Socrates_in_the_City_2.29.24_|_James_O&#039;Keefe_20240319.mp4', 'format': 'bestvideo+bestaudio/best', 'noplaylist': True, 'verbose': True}
+2025-05-13 15:59:00,711 - INFO - About to download video.
+2025-05-13 15:59:03,084 - ERROR - ❌ Error during download: ERROR: unable to open for writing: [Errno 36] File name too long: '/media/fritz/E4B0-3FC21/2025-05-13/1.8M_views_&#xb7;_50K_reactions_|_If_your_price_is_not_your_life,_then_you_are_for_sale._If_you&#x2019;re_a_truth_teller,_your_price_has_to_be_your_life.\n&#064;ericmetaxas_Socrates_in_the_City_2.29.24_|_James_O&#039;Keefe_20240319.f1485023902078851v.mp4.part'
+2025-05-13 15:59:03,085 - ERROR - ❌ Unhandled error in main(): name 'traceback' is not defined
+2025-05-13 15:59:03,284 - ERROR - Download script failed:
+[debug] Encodings: locale UTF-8, fs utf-8, pref UTF-8, out utf-8 (No ANSI), error utf-8 (No ANSI), screen utf-8 (No ANSI)
+[debug] yt-dlp version stable@2025.02.19 from yt-dlp/yt-dlp [4985a4041] (pip) API
+[debug] params: {'outtmpl': '/media/fritz/E4B0-3FC21/2025-05-13/1.8M_views_&#xb7;_50K_reactions_|_If_your_price_is_not_your_life,_then_you_are_for_sale._If_you&#x2019;re_a_truth_teller,_your_price_has_to_be_your_life.\n&#064;ericmetaxas_Socrates_in_the_City_2.29.24_|_James_O&#039;Keefe_20240319.mp4', 'format': 'bestvideo+bestaudio/best', 'noplaylist': True, 'verbose': True, 'compat_opts': set(), 'http_headers': {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.18 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'Accept-Language': 'en-us,en;q=0.5', 'Sec-Fetch-Mode': 'navigate'}}
+[debug] Python 3.9.18 (CPython x86_64 64bit) - Linux-5.4.0-208-generic-x86_64-with-glibc2.31 (OpenSSL 3.3.2 3 Sep 2024, glibc 2.31)
+[debug] exe versions: ffmpeg 7.1 (setts), ffprobe 7.1
+[debug] Optional libraries: Cryptodome-3.21.0, brotli-1.1.0, certifi-2024.08.30, mutagen-1.47.0, requests-2.32.3, sqlite3-3.45.2, urllib3-2.2.3, websockets-13.1
+[debug] Proxy map: {}
+[debug] Request Handlers: urllib, requests, websockets
+[debug] Loaded 1841 extractors
+[debug] Formats sorted by: hasvid, ie_pref, lang, quality, res, fps, hdr:12(7), vcodec, channels, acodec, size, br, asr, proto, vext, aext, hasaud, source, id
+[debug] Invoking http downloader on "https://video-sea1-1.xx.fbcdn.net/o1/v/t2/f2/m82/AQNZuZBrfjlR1lmBJR7MvTd-1sMP9Fa34mAJcec5Wu95mrlTh4WWjpBlNA8JeRnCQgMd5iKJSwjZPHmxq25Mcb8TV4r-IGdhgoz5uls.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=video-sea1-1.xx.fbcdn.net&_nc_ohc=Qd_PCThg7KUQ7kNvwGmNZFF&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjo3MjcwMzM1MjE2MzgzNDU5LCJvaWxfdXJsZ2VuX2FwcF9pZCI6MCwiY2xpZW50X25hbWUiOiJ1bmtub3duIiwieHB2X2Fzc2V0X2lkIjoxMTQ4NTI1NTk5NjQyMDg3LCJhc3NldF9hZ2VfZGF5cyI6NDIwLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ==&ccb=17-1&_nc_zt=28&oh=00_AfLaZvyqNvVjDdrVUB0RbNteKUT5pnGF1K-Gnppyp60yJA&oe=682583A7"
+ERROR: unable to open for writing: [Errno 36] File name too long: '/media/fritz/E4B0-3FC21/2025-05-13/1.8M_views_&#xb7;_50K_reactions_|_If_your_price_is_not_your_life,_then_you_are_for_sale._If_you&#x2019;re_a_truth_teller,_your_price_has_to_be_your_life.\n&#064;ericmetaxas_Socrates_in_the_City_2.29.24_|_James_O&#039;Keefe_20240319.f1485023902078851v.mp4.part'
+Traceback (most recent call last):
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/utils/_utils.py", line 604, in sanitize_open
+    stream = locked_file(filename, open_mode, block=False).__enter__()
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/utils/_utils.py", line 1620, in __init__
+    self.f = os.fdopen(os.open(filename, flags, 0o666), mode, encoding=encoding)
+OSError: [Errno 36] File name too long: '/media/fritz/E4B0-3FC21/2025-05-13/1.8M_views_&#xb7;_50K_reactions_|_If_your_price_is_not_your_life,_then_you_are_for_sale._If_you&#x2019;re_a_truth_teller,_your_price_has_to_be_your_life.\n&#064;ericmetaxas_Socrates_in_the_City_2.29.24_|_James_O&#039;Keefe_20240319.f1485023902078851v.mp4.part'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/downloader/http.py", line 263, in download
+    ctx.stream, ctx.tmpfilename = self.sanitize_open(
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/downloader/common.py", line 248, in wrapper
+    retry.error_callback(err, 1, 0)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/downloader/common.py", line 234, in error_callback
+    return RetryManager.report_retry(
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/utils/_utils.py", line 5262, in report_retry
+    raise e
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/downloader/common.py", line 243, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/downloader/common.py", line 254, in sanitize_open
+    f, filename = sanitize_open(filename, open_mode)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/utils/_utils.py", line 606, in sanitize_open
+    stream = open(filename, open_mode)
+OSError: [Errno 36] File name too long: '/media/fritz/E4B0-3FC21/2025-05-13/1.8M_views_&#xb7;_50K_reactions_|_If_your_price_is_not_your_life,_then_you_are_for_sale._If_you&#x2019;re_a_truth_teller,_your_price_has_to_be_your_life.\n&#064;ericmetaxas_Socrates_in_the_City_2.29.24_|_James_O&#039;Keefe_20240319.f1485023902078851v.mp4.part'
+
+Traceback (most recent call last):
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/utils/_utils.py", line 604, in sanitize_open
+    stream = locked_file(filename, open_mode, block=False).__enter__()
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/utils/_utils.py", line 1620, in __init__
+    self.f = os.fdopen(os.open(filename, flags, 0o666), mode, encoding=encoding)
+OSError: [Errno 36] File name too long: '/media/fritz/E4B0-3FC21/2025-05-13/1.8M_views_&#xb7;_50K_reactions_|_If_your_price_is_not_your_life,_then_you_are_for_sale._If_you&#x2019;re_a_truth_teller,_your_price_has_to_be_your_life.\n&#064;ericmetaxas_Socrates_in_the_City_2.29.24_|_James_O&#039;Keefe_20240319.f1485023902078851v.mp4.part'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/downloader/http.py", line 263, in download
+    ctx.stream, ctx.tmpfilename = self.sanitize_open(
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/downloader/common.py", line 248, in wrapper
+    retry.error_callback(err, 1, 0)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/downloader/common.py", line 234, in error_callback
+    return RetryManager.report_retry(
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/utils/_utils.py", line 5262, in report_retry
+    raise e
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/downloader/common.py", line 243, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/downloader/common.py", line 254, in sanitize_open
+    f, filename = sanitize_open(filename, open_mode)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/utils/_utils.py", line 606, in sanitize_open
+    stream = open(filename, open_mode)
+OSError: [Errno 36] File name too long: '/media/fritz/E4B0-3FC21/2025-05-13/1.8M_views_&#xb7;_50K_reactions_|_If_your_price_is_not_your_life,_then_you_are_for_sale._If_you&#x2019;re_a_truth_teller,_your_price_has_to_be_your_life.\n&#064;ericmetaxas_Socrates_in_the_City_2.29.24_|_James_O&#039;Keefe_20240319.f1485023902078851v.mp4.part'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/fritz/Desktop/teton/bin/../lib/fb_utils.py", line 203, in download_video
+    ydl.download([url])
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/YoutubeDL.py", line 3618, in download
+    self.__download_wrapper(self.extract_info)(
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/YoutubeDL.py", line 3591, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/YoutubeDL.py", line 1626, in extract_info
+    return self.__extract_info(url, self.get_info_extractor(key), download, extra_info, process)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/YoutubeDL.py", line 1637, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/YoutubeDL.py", line 1793, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/YoutubeDL.py", line 1872, in process_ie_result
+    return self.extract_info(
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/YoutubeDL.py", line 1626, in extract_info
+    return self.__extract_info(url, self.get_info_extractor(key), download, extra_info, process)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/YoutubeDL.py", line 1637, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/YoutubeDL.py", line 1793, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/YoutubeDL.py", line 1852, in process_ie_result
+    ie_result = self.process_video_result(ie_result, download=download)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/YoutubeDL.py", line 3024, in process_video_result
+    self.process_info(new_info)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/YoutubeDL.py", line 177, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/YoutubeDL.py", line 3474, in process_info
+    partial_success, real_download = self.dl(fname, new_info)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/YoutubeDL.py", line 3212, in dl
+    return fd.download(name, new_info, subtitle)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/downloader/common.py", line 464, in download
+    ret = self.real_download(filename, info_dict)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/downloader/http.py", line 368, in real_download
+    return download()
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/downloader/http.py", line 269, in download
+    self.report_error(f'unable to open for writing: {err}')
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/YoutubeDL.py", line 1095, in report_error
+    self.trouble(f'{self._format_err("ERROR:", self.Styles.ERROR)} {message}', *args, **kwargs)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/YoutubeDL.py", line 1034, in trouble
+    raise DownloadError(message, exc_info)
+yt_dlp.utils.DownloadError: ERROR: unable to open for writing: [Errno 36] File name too long: '/media/fritz/E4B0-3FC21/2025-05-13/1.8M_views_&#xb7;_50K_reactions_|_If_your_price_is_not_your_life,_then_you_are_for_sale._If_you&#x2019;re_a_truth_teller,_your_price_has_to_be_your_life.\n&#064;ericmetaxas_Socrates_in_the_City_2.29.24_|_James_O&#039;Keefe_20240319.f1485023902078851v.mp4.part'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/fritz/Desktop/teton/bin/call_download.py", line 105, in main
+    download_result = tu.download_video(params)
+  File "/home/fritz/Desktop/teton/bin/../lib/fb_utils.py", line 213, in download_video
+    traceback.print_exc()
+NameError: name 'traceback' is not defined
+
+2025-05-13 15:59:03,285 - ERROR - ❌ No metadata found after attempted download.
+2025-05-13 16:00:50,995 - INFO - Logging initialized.
+2025-05-13 16:00:50,995 - INFO - 🔁 Task Router Started
+2025-05-13 16:00:50,996 - INFO - 📥 No completed download or metadata found — running downloader...
+2025-05-13 16:00:50,996 - INFO - 📥 Initiating download for: https://www.facebook.com/officialtimballard/videos/1054895616487696
+2025-05-13 16:00:51,592 - INFO - Logging initialized.
+2025-05-13 16:00:51,592 - INFO - 🔴 Starting task: perform_download
+2025-05-13 16:00:51,592 - INFO - ✅ Download directory ready: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 16:00:51,592 - INFO - ➡️ Facebook video detected.
+2025-05-13 16:00:51,592 - INFO - Masking metadata
+2025-05-13 16:00:51,593 - INFO - Received parameters for metadata extraction:
+2025-05-13 16:00:51,593 - INFO - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 16:00:51,593 - INFO - cookie_path: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 16:00:51,593 - INFO - url: https://www.facebook.com/officialtimballard/videos/1054895616487696
+2025-05-13 16:00:51,593 - INFO - task: perform_download
+2025-05-13 16:00:51,593 - INFO - ⚠️ No valid cookie file used for metadata extraction.
+2025-05-13 16:00:53,141 - INFO - Extracted and normalized metadata:
+2025-05-13 16:00:53,142 - INFO - video_title: The_truth_is_like_a_lion..._|_By_Tim_Ballard
+2025-05-13 16:00:53,142 - INFO - video_date: 20250424
+2025-05-13 16:00:53,142 - INFO - uploader: Tim Ballard
+2025-05-13 16:00:53,142 - INFO - duration: 900.183
+2025-05-13 16:00:53,142 - INFO - width: 1080
+2025-05-13 16:00:53,142 - INFO - height: 1920
+2025-05-13 16:00:53,142 - INFO - ext: mp4
+2025-05-13 16:00:53,142 - INFO - resolution: 1080x1920
+2025-05-13 16:00:53,142 - INFO - fps: None
+2025-05-13 16:00:53,142 - INFO - tbr: 640.6179999999999
+2025-05-13 16:00:53,142 - INFO - protocol: https+https
+2025-05-13 16:00:53,142 - INFO - vcodec: vp09.00.40.08.00.01.01.01.00
+2025-05-13 16:00:53,143 - INFO - vbr: 577.328
+2025-05-13 16:00:53,143 - INFO - acodec: mp4a.40.5
+2025-05-13 16:00:53,143 - INFO - abr: 63.29
+2025-05-13 16:00:53,143 - INFO - asr: 44100
+2025-05-13 16:00:53,143 - INFO - Generated original filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250424.mp4
+2025-05-13 16:00:53,143 - INFO - Received parameters: download_video:
+2025-05-13 16:00:53,143 - INFO - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 16:00:53,143 - INFO - cookie_path: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 16:00:53,143 - INFO - url: https://www.facebook.com/officialtimballard/videos/1054895616487696
+2025-05-13 16:00:53,144 - INFO - task: perform_download
+2025-05-13 16:00:53,144 - INFO - video_title: The_truth_is_like_a_lion..._|_By_Tim_Ballard
+2025-05-13 16:00:53,144 - INFO - video_date: 20250424
+2025-05-13 16:00:53,144 - INFO - uploader: Tim Ballard
+2025-05-13 16:00:53,144 - INFO - duration: 900.183
+2025-05-13 16:00:53,144 - INFO - width: 1080
+2025-05-13 16:00:53,144 - INFO - height: 1920
+2025-05-13 16:00:53,144 - INFO - ext: mp4
+2025-05-13 16:00:53,144 - INFO - resolution: 1080x1920
+2025-05-13 16:00:53,144 - INFO - fps: None
+2025-05-13 16:00:53,144 - INFO - tbr: 640.6179999999999
+2025-05-13 16:00:53,144 - INFO - protocol: https+https
+2025-05-13 16:00:53,145 - INFO - vcodec: vp09.00.40.08.00.01.01.01.00
+2025-05-13 16:00:53,145 - INFO - vbr: 577.328
+2025-05-13 16:00:53,145 - INFO - acodec: mp4a.40.5
+2025-05-13 16:00:53,145 - INFO - abr: 63.29
+2025-05-13 16:00:53,145 - INFO - asr: 44100
+2025-05-13 16:00:53,145 - INFO - original_filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250424.mp4
+2025-05-13 16:00:53,145 - INFO - Starting download for URL: https://www.facebook.com/officialtimballard/videos/1054895616487696
+2025-05-13 16:00:53,145 - INFO - ⚠️ No valid cookie file used.
+2025-05-13 16:00:53,145 - DEBUG - yt-dlp options: {'outtmpl': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250424.mp4', 'format': 'bestvideo+bestaudio/best', 'noplaylist': True, 'verbose': True}
+2025-05-13 16:00:53,329 - INFO - About to download video.
+2025-05-13 16:01:33,437 - INFO - Video download completed.
+2025-05-13 16:01:33,444 - INFO - Download completed in 40.30 seconds
+2025-05-13 16:01:33,644 - INFO - Params saved to JSON file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250424.json
+2025-05-13 16:01:33,645 - INFO - ✅ Download complete: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250424.mp4
+2025-05-13 16:01:33,931 - INFO - 📦 Task metadata updated.
+2025-05-13 16:01:34,050 - INFO - Download stdout:
+2025-05-13 16:00:51,592 - Logging initialized.
+2025-05-13 16:00:51,592 - 🔴 Starting task: perform_download
+2025-05-13 16:00:51,592 - ✅ Download directory ready: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 16:00:51,592 - ➡️ Facebook video detected.
+2025-05-13 16:00:51,592 - Masking metadata
+2025-05-13 16:00:51,593 - Received parameters for metadata extraction:
+2025-05-13 16:00:51,593 - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 16:00:51,593 - cookie_path: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 16:00:51,593 - url: https://www.facebook.com/officialtimballard/videos/1054895616487696
+2025-05-13 16:00:51,593 - task: perform_download
+2025-05-13 16:00:51,593 - ⚠️ No valid cookie file used for metadata extraction.
+[facebook] Extracting URL: https://www.facebook.com/officialtimballard/videos/1054895616487696
+[facebook] 1054895616487696: Downloading webpage
+2025-05-13 16:00:53,141 - Extracted and normalized metadata:
+2025-05-13 16:00:53,142 - video_title: The_truth_is_like_a_lion..._|_By_Tim_Ballard
+2025-05-13 16:00:53,142 - video_date: 20250424
+2025-05-13 16:00:53,142 - uploader: Tim Ballard
+2025-05-13 16:00:53,142 - duration: 900.183
+2025-05-13 16:00:53,142 - width: 1080
+2025-05-13 16:00:53,142 - height: 1920
+2025-05-13 16:00:53,142 - ext: mp4
+2025-05-13 16:00:53,142 - resolution: 1080x1920
+2025-05-13 16:00:53,142 - fps: None
+2025-05-13 16:00:53,142 - tbr: 640.6179999999999
+2025-05-13 16:00:53,142 - protocol: https+https
+2025-05-13 16:00:53,142 - vcodec: vp09.00.40.08.00.01.01.01.00
+2025-05-13 16:00:53,143 - vbr: 577.328
+2025-05-13 16:00:53,143 - acodec: mp4a.40.5
+2025-05-13 16:00:53,143 - abr: 63.29
+2025-05-13 16:00:53,143 - asr: 44100
+2025-05-13 16:00:53,143 - Generated original filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250424.mp4
+2025-05-13 16:00:53,143 - Received parameters: download_video:
+2025-05-13 16:00:53,143 - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 16:00:53,143 - cookie_path: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 16:00:53,143 - url: https://www.facebook.com/officialtimballard/videos/1054895616487696
+2025-05-13 16:00:53,144 - task: perform_download
+2025-05-13 16:00:53,144 - video_title: The_truth_is_like_a_lion..._|_By_Tim_Ballard
+2025-05-13 16:00:53,144 - video_date: 20250424
+2025-05-13 16:00:53,144 - uploader: Tim Ballard
+2025-05-13 16:00:53,144 - duration: 900.183
+2025-05-13 16:00:53,144 - width: 1080
+2025-05-13 16:00:53,144 - height: 1920
+2025-05-13 16:00:53,144 - ext: mp4
+2025-05-13 16:00:53,144 - resolution: 1080x1920
+2025-05-13 16:00:53,144 - fps: None
+2025-05-13 16:00:53,144 - tbr: 640.6179999999999
+2025-05-13 16:00:53,144 - protocol: https+https
+2025-05-13 16:00:53,145 - vcodec: vp09.00.40.08.00.01.01.01.00
+2025-05-13 16:00:53,145 - vbr: 577.328
+2025-05-13 16:00:53,145 - acodec: mp4a.40.5
+2025-05-13 16:00:53,145 - abr: 63.29
+2025-05-13 16:00:53,145 - asr: 44100
+2025-05-13 16:00:53,145 - original_filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250424.mp4
+2025-05-13 16:00:53,145 - Starting download for URL: https://www.facebook.com/officialtimballard/videos/1054895616487696
+2025-05-13 16:00:53,145 - ⚠️ No valid cookie file used.
+2025-05-13 16:00:53,329 - About to download video.
+[facebook] Extracting URL: https://www.facebook.com/officialtimballard/videos/1054895616487696
+[facebook] 1054895616487696: Downloading webpage
+[info] 1054895616487696: Downloading 1 format(s): 675010985163943v+1028753339133358a
+[download] Destination: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250424.f675010985163943v.mp4
+
+[download]   0.0% of   61.95MiB at  Unknown B/s ETA Unknown
+[download]   0.0% of   61.95MiB at   67.62KiB/s ETA 15:38  
+[download]   0.0% of   61.95MiB at  154.84KiB/s ETA 06:49
+[download]   0.0% of   61.95MiB at  326.64KiB/s ETA 03:14
+[download]   0.0% of   61.95MiB at  637.78KiB/s ETA 01:39
+[download]   0.1% of   61.95MiB at  718.23KiB/s ETA 01:28
+[download]   0.2% of   61.95MiB at  953.84KiB/s ETA 01:06
+[download]   0.4% of   61.95MiB at    1.46MiB/s ETA 00:42
+[download]   0.8% of   61.95MiB at    2.30MiB/s ETA 00:26
+[download]   1.6% of   61.95MiB at    3.33MiB/s ETA 00:18
+[download]   3.2% of   61.95MiB at    4.37MiB/s ETA 00:13
+[download]   6.5% of   61.95MiB at    2.42MiB/s ETA 00:23
+[download]   9.2% of   61.95MiB at    2.82MiB/s ETA 00:19
+[download]  14.5% of   61.95MiB at    3.40MiB/s ETA 00:15
+[download]  21.0% of   61.95MiB at    3.81MiB/s ETA 00:12
+[download]  27.5% of   61.95MiB at    4.17MiB/s ETA 00:10
+[download]  33.9% of   61.95MiB at    4.47MiB/s ETA 00:09
+[download]  40.4% of   61.95MiB at    4.68MiB/s ETA 00:07
+[download]  46.8% of   61.95MiB at    4.69MiB/s ETA 00:07
+[download]  53.3% of   61.95MiB at    4.64MiB/s ETA 00:06
+[download]  59.7% of   61.95MiB at    4.61MiB/s ETA 00:05
+[download]  66.2% of   61.95MiB at    3.28MiB/s ETA 00:06
+[download]  69.4% of   61.95MiB at    3.44MiB/s ETA 00:05
+[download]  75.9% of   61.95MiB at    3.60MiB/s ETA 00:04
+[download]  82.3% of   61.95MiB at    3.71MiB/s ETA 00:02
+[download]  88.8% of   61.95MiB at    3.83MiB/s ETA 00:01
+[download]  95.3% of   61.95MiB at    3.91MiB/s ETA 00:00
+[download] 100.0% of   61.95MiB at    3.99MiB/s ETA 00:00
+[download] 100% of   61.95MiB in 00:00:21 at 2.87MiB/s   
+[download] Destination: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250424.f1028753339133358a.m4a
+
+[download]   0.0% of    6.80MiB at  711.50KiB/s ETA 00:10
+[download]   0.0% of    6.80MiB at  616.51KiB/s ETA 00:11
+[download]   0.1% of    6.80MiB at  842.52KiB/s ETA 00:08
+[download]   0.2% of    6.80MiB at    1.40MiB/s ETA 00:04
+[download]   0.4% of    6.80MiB at    2.34MiB/s ETA 00:02
+[download]   0.9% of    6.80MiB at    3.83MiB/s ETA 00:01
+[download]   1.8% of    6.80MiB at    6.46MiB/s ETA 00:01
+[download]   3.7% of    6.80MiB at    6.78MiB/s ETA 00:00
+[download]   7.3% of    6.80MiB at    6.31MiB/s ETA 00:00
+[download]  14.7% of    6.80MiB at    3.11MiB/s ETA 00:01
+[download]  29.4% of    6.80MiB at    3.88MiB/s ETA 00:01
+[download]  58.8% of    6.80MiB at    4.71MiB/s ETA 00:00
+[download] 100.0% of    6.80MiB at    5.02MiB/s ETA 00:00
+[download] 100% of    6.80MiB in 00:00:01 at 3.48MiB/s   
+[Merger] Merging formats into "/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250424.mp4"
+Deleting original file /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250424.f1028753339133358a.m4a (pass -k to keep)
+Deleting original file /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250424.f675010985163943v.mp4 (pass -k to keep)
+2025-05-13 16:01:33,437 - Video download completed.
+2025-05-13 16:01:33,444 - Download completed in 40.30 seconds
+2025-05-13 16:01:33,644 - Params saved to JSON file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250424.json
+2025-05-13 16:01:33,645 - ✅ Download complete: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250424.mp4
+/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250424.mp4
+2025-05-13 16:01:33,931 - 📦 Task metadata updated.
+/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250424.mp4
+
+2025-05-13 16:01:34,052 - INFO - 🛠 Tasks to evaluate: ['perform_download', 'apply_watermark', 'make_clips', 'extract_audio', 'generate_captions', 'post_processed']
+2025-05-13 16:01:39,912 - INFO - Logging initialized.
+2025-05-13 16:01:39,915 - INFO - 🖼 Processing video file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250424.mp4
+2025-05-13 16:01:39,917 - INFO - Loaded metadata from: metadata/Tim_Ballard_20250424.json
+2025-05-13 16:01:39,917 - INFO - Starting watermarking process...
+2025-05-13 16:42:49,744 - INFO - ✅ Watermarked video created: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250424_watermarked.mp4
+2025-05-13 16:42:49,810 - DEBUG - default_tasks updated: {'perform_download': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250424.mp4', 'apply_watermark': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250424_watermarked.mp4', 'make_clips': True, 'extract_audio': True, 'generate_captions': True, 'post_processed': False}
+2025-05-13 17:09:47,669 - INFO - Logging initialized.
+2025-05-13 17:09:47,687 - INFO - 🔁 Task Router Started
+2025-05-13 17:09:47,699 - INFO - 📥 No completed download or metadata found — running downloader...
+2025-05-13 17:09:47,699 - INFO - 📥 Initiating download for: https://www.facebook.com/100044614771436/videos/pcb.1220201209477027/535040929639461
+2025-05-13 17:09:48,232 - INFO - Logging initialized.
+2025-05-13 17:09:48,232 - INFO - 🔴 Starting task: perform_download
+2025-05-13 17:09:48,232 - INFO - ✅ Download directory ready: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 17:09:48,232 - INFO - ➡️ Facebook video detected.
+2025-05-13 17:09:48,233 - INFO - Masking metadata
+2025-05-13 17:09:48,233 - INFO - Received parameters for metadata extraction:
+2025-05-13 17:09:48,233 - INFO - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 17:09:48,233 - INFO - cookie_path: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 17:09:48,233 - INFO - url: https://www.facebook.com/100044614771436/videos/pcb.1220201209477027/535040929639461
+2025-05-13 17:09:48,233 - INFO - task: perform_download
+2025-05-13 17:09:48,233 - INFO - ⚠️ No valid cookie file used for metadata extraction.
+2025-05-13 17:09:52,570 - INFO - Extracted and normalized metadata:
+2025-05-13 17:09:52,572 - INFO - video_title: 147K_views_·_519_reactions_|_Tim_Ballard
+2025-05-13 17:09:52,573 - INFO - uploader: 147K views &#xb7; 519 reactions | Tim Ballard | Facebook
+2025-05-13 17:09:52,574 - INFO - duration: 71.076
+2025-05-13 17:09:52,574 - INFO - width: 720
+2025-05-13 17:09:52,574 - INFO - height: 900
+2025-05-13 17:09:52,575 - INFO - ext: mp4
+2025-05-13 17:09:52,575 - INFO - resolution: 720x900
+2025-05-13 17:09:52,575 - INFO - fps: None
+2025-05-13 17:09:52,575 - INFO - tbr: 536.987
+2025-05-13 17:09:52,575 - INFO - protocol: https+https
+2025-05-13 17:09:52,576 - INFO - vcodec: av01.0.04M.08.0.111.05.06.05.0
+2025-05-13 17:09:52,576 - INFO - vbr: 481.459
+2025-05-13 17:09:52,576 - INFO - acodec: mp4a.40.5
+2025-05-13 17:09:52,576 - INFO - abr: 55.528
+2025-05-13 17:09:52,576 - INFO - asr: 44100
+2025-05-13 17:09:52,577 - WARNING - Video date missing from metadata, using 'unknown_date'.
+2025-05-13 17:09:52,585 - INFO - Generated original filename: /media/fritz/E4B0-3FC21/2025-05-13/147K_views_&#xb7;_519_reactions_|_Tim_Ballard_|_Facebook_unknown_date.mp4
+2025-05-13 17:09:52,585 - INFO - Received parameters: download_video:
+2025-05-13 17:09:52,586 - INFO - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 17:09:52,586 - INFO - cookie_path: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 17:09:52,586 - INFO - url: https://www.facebook.com/100044614771436/videos/pcb.1220201209477027/535040929639461
+2025-05-13 17:09:52,586 - INFO - task: perform_download
+2025-05-13 17:09:52,586 - INFO - video_title: 147K_views_·_519_reactions_|_Tim_Ballard
+2025-05-13 17:09:52,586 - INFO - uploader: 147K views &#xb7; 519 reactions | Tim Ballard | Facebook
+2025-05-13 17:09:52,587 - INFO - duration: 71.076
+2025-05-13 17:09:52,587 - INFO - width: 720
+2025-05-13 17:09:52,587 - INFO - height: 900
+2025-05-13 17:09:52,587 - INFO - ext: mp4
+2025-05-13 17:09:52,587 - INFO - resolution: 720x900
+2025-05-13 17:09:52,587 - INFO - fps: None
+2025-05-13 17:09:52,588 - INFO - tbr: 536.987
+2025-05-13 17:09:52,588 - INFO - protocol: https+https
+2025-05-13 17:09:52,588 - INFO - vcodec: av01.0.04M.08.0.111.05.06.05.0
+2025-05-13 17:09:52,588 - INFO - vbr: 481.459
+2025-05-13 17:09:52,588 - INFO - acodec: mp4a.40.5
+2025-05-13 17:09:52,588 - INFO - abr: 55.528
+2025-05-13 17:09:52,588 - INFO - asr: 44100
+2025-05-13 17:09:52,589 - INFO - original_filename: /media/fritz/E4B0-3FC21/2025-05-13/147K_views_&#xb7;_519_reactions_|_Tim_Ballard_|_Facebook_unknown_date.mp4
+2025-05-13 17:09:52,589 - INFO - Starting download for URL: https://www.facebook.com/100044614771436/videos/pcb.1220201209477027/535040929639461
+2025-05-13 17:09:52,589 - INFO - ⚠️ No valid cookie file used.
+2025-05-13 17:09:52,589 - DEBUG - yt-dlp options: {'outtmpl': '/media/fritz/E4B0-3FC21/2025-05-13/147K_views_&#xb7;_519_reactions_|_Tim_Ballard_|_Facebook_unknown_date.mp4', 'format': 'bestvideo+bestaudio/best', 'noplaylist': True, 'verbose': True}
+2025-05-13 17:09:53,042 - INFO - About to download video.
+2025-05-13 17:09:55,890 - ERROR - ❌ Error during download: ERROR: unable to open for writing: [Errno 22] Invalid argument: '/media/fritz/E4B0-3FC21/2025-05-13/147K_views_&#xb7;_519_reactions_|_Tim_Ballard_|_Facebook_unknown_date.f1202231701478515v.mp4.part'
+2025-05-13 17:09:55,890 - ERROR - ❌ Unhandled error in main(): name 'traceback' is not defined
+2025-05-13 17:09:56,005 - ERROR - Download script failed:
+[debug] Encodings: locale UTF-8, fs utf-8, pref UTF-8, out utf-8 (No ANSI), error utf-8 (No ANSI), screen utf-8 (No ANSI)
+[debug] yt-dlp version stable@2025.02.19 from yt-dlp/yt-dlp [4985a4041] (pip) API
+[debug] params: {'outtmpl': '/media/fritz/E4B0-3FC21/2025-05-13/147K_views_&#xb7;_519_reactions_|_Tim_Ballard_|_Facebook_unknown_date.mp4', 'format': 'bestvideo+bestaudio/best', 'noplaylist': True, 'verbose': True, 'compat_opts': set(), 'http_headers': {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'Accept-Language': 'en-us,en;q=0.5', 'Sec-Fetch-Mode': 'navigate'}}
+[debug] Python 3.9.18 (CPython x86_64 64bit) - Linux-5.4.0-208-generic-x86_64-with-glibc2.31 (OpenSSL 3.3.2 3 Sep 2024, glibc 2.31)
+[debug] exe versions: ffmpeg 7.1 (setts), ffprobe 7.1
+[debug] Optional libraries: Cryptodome-3.21.0, brotli-1.1.0, certifi-2024.08.30, mutagen-1.47.0, requests-2.32.3, sqlite3-3.45.2, urllib3-2.2.3, websockets-13.1
+[debug] Proxy map: {}
+[debug] Request Handlers: urllib, requests, websockets
+[debug] Loaded 1841 extractors
+[debug] Formats sorted by: hasvid, ie_pref, lang, quality, res, fps, hdr:12(7), vcodec, channels, acodec, size, br, asr, proto, vext, aext, hasaud, source, id
+[debug] Invoking http downloader on "https://video-sea1-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQMj4a1eCTMsxDCr0F5tORsOFZfFobvCgnSQrZiKl5VPvI683UfQO1qmBfkFPtAnylZp-jZzKsSaV0YKKBQrUg5h.mp4?strext=1&_nc_cat=108&_nc_sid=9ca052&_nc_ht=video-sea1-1.xx.fbcdn.net&_nc_ohc=jr0v_-aoJSoQ7kNvwHNIJXA&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfcjJhdjEtcjFnZW4ydnA5X3E5MCIsInZpZGVvX2lkIjo1MzUwNDA5Mjk2Mzk0NjEsIm9pbF91cmxnZW5fYXBwX2lkIjowLCJjbGllbnRfbmFtZSI6InVua25vd24iLCJ4cHZfYXNzZXRfaWQiOjk5NTk1ODA0MjUwODI1NywidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjcxLCJ1cmxnZW5fc291cmNlIjoid3d3In0=&ccb=17-1&_nc_zt=28&oh=00_AfJjHmOnnLFzjMpMODXpHd9Rj336LGBcJYiTGFQxttOYoQ&oe=6829B552"
+ERROR: unable to open for writing: [Errno 22] Invalid argument: '/media/fritz/E4B0-3FC21/2025-05-13/147K_views_&#xb7;_519_reactions_|_Tim_Ballard_|_Facebook_unknown_date.f1202231701478515v.mp4.part'
+Traceback (most recent call last):
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/utils/_utils.py", line 604, in sanitize_open
+    stream = locked_file(filename, open_mode, block=False).__enter__()
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/utils/_utils.py", line 1620, in __init__
+    self.f = os.fdopen(os.open(filename, flags, 0o666), mode, encoding=encoding)
+OSError: [Errno 22] Invalid argument: '/media/fritz/E4B0-3FC21/2025-05-13/147K_views_&#xb7;_519_reactions_|_Tim_Ballard_|_Facebook_unknown_date.f1202231701478515v.mp4.part'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/downloader/http.py", line 263, in download
+    ctx.stream, ctx.tmpfilename = self.sanitize_open(
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/downloader/common.py", line 241, in wrapper
+    for retry in RetryManager(self.params.get('file_access_retries', 3), error_callback, fd=self):
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/utils/_utils.py", line 5254, in __iter__
+    self.error_callback(self.error, self.attempt, self.retries)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/downloader/common.py", line 234, in error_callback
+    return RetryManager.report_retry(
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/utils/_utils.py", line 5262, in report_retry
+    raise e
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/downloader/common.py", line 243, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/downloader/common.py", line 254, in sanitize_open
+    f, filename = sanitize_open(filename, open_mode)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/utils/_utils.py", line 606, in sanitize_open
+    stream = open(filename, open_mode)
+OSError: [Errno 22] Invalid argument: '/media/fritz/E4B0-3FC21/2025-05-13/147K_views_&#xb7;_519_reactions_|_Tim_Ballard_|_Facebook_unknown_date.f1202231701478515v.mp4.part'
+
+Traceback (most recent call last):
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/utils/_utils.py", line 604, in sanitize_open
+    stream = locked_file(filename, open_mode, block=False).__enter__()
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/utils/_utils.py", line 1620, in __init__
+    self.f = os.fdopen(os.open(filename, flags, 0o666), mode, encoding=encoding)
+OSError: [Errno 22] Invalid argument: '/media/fritz/E4B0-3FC21/2025-05-13/147K_views_&#xb7;_519_reactions_|_Tim_Ballard_|_Facebook_unknown_date.f1202231701478515v.mp4.part'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/downloader/http.py", line 263, in download
+    ctx.stream, ctx.tmpfilename = self.sanitize_open(
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/downloader/common.py", line 241, in wrapper
+    for retry in RetryManager(self.params.get('file_access_retries', 3), error_callback, fd=self):
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/utils/_utils.py", line 5254, in __iter__
+    self.error_callback(self.error, self.attempt, self.retries)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/downloader/common.py", line 234, in error_callback
+    return RetryManager.report_retry(
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/utils/_utils.py", line 5262, in report_retry
+    raise e
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/downloader/common.py", line 243, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/downloader/common.py", line 254, in sanitize_open
+    f, filename = sanitize_open(filename, open_mode)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/utils/_utils.py", line 606, in sanitize_open
+    stream = open(filename, open_mode)
+OSError: [Errno 22] Invalid argument: '/media/fritz/E4B0-3FC21/2025-05-13/147K_views_&#xb7;_519_reactions_|_Tim_Ballard_|_Facebook_unknown_date.f1202231701478515v.mp4.part'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/fritz/Desktop/teton/bin/../lib/fb_utils.py", line 203, in download_video
+    ydl.download([url])
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/YoutubeDL.py", line 3618, in download
+    self.__download_wrapper(self.extract_info)(
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/YoutubeDL.py", line 3591, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/YoutubeDL.py", line 1626, in extract_info
+    return self.__extract_info(url, self.get_info_extractor(key), download, extra_info, process)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/YoutubeDL.py", line 1637, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/YoutubeDL.py", line 1793, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/YoutubeDL.py", line 1852, in process_ie_result
+    ie_result = self.process_video_result(ie_result, download=download)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/YoutubeDL.py", line 3024, in process_video_result
+    self.process_info(new_info)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/YoutubeDL.py", line 177, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/YoutubeDL.py", line 3474, in process_info
+    partial_success, real_download = self.dl(fname, new_info)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/YoutubeDL.py", line 3212, in dl
+    return fd.download(name, new_info, subtitle)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/downloader/common.py", line 464, in download
+    ret = self.real_download(filename, info_dict)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/downloader/http.py", line 368, in real_download
+    return download()
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/downloader/http.py", line 269, in download
+    self.report_error(f'unable to open for writing: {err}')
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/YoutubeDL.py", line 1095, in report_error
+    self.trouble(f'{self._format_err("ERROR:", self.Styles.ERROR)} {message}', *args, **kwargs)
+  File "/home/fritz/miniconda3/envs/new-env/lib/python3.9/site-packages/yt_dlp/YoutubeDL.py", line 1034, in trouble
+    raise DownloadError(message, exc_info)
+yt_dlp.utils.DownloadError: ERROR: unable to open for writing: [Errno 22] Invalid argument: '/media/fritz/E4B0-3FC21/2025-05-13/147K_views_&#xb7;_519_reactions_|_Tim_Ballard_|_Facebook_unknown_date.f1202231701478515v.mp4.part'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/fritz/Desktop/teton/bin/call_download.py", line 105, in main
+    download_result = tu.download_video(params)
+  File "/home/fritz/Desktop/teton/bin/../lib/fb_utils.py", line 213, in download_video
+    traceback.print_exc()
+NameError: name 'traceback' is not defined
+
+2025-05-13 17:09:56,006 - ERROR - ❌ No metadata found after attempted download.
+2025-05-13 17:19:55,197 - INFO - Logging initialized.
+2025-05-13 17:19:55,197 - INFO - 🔁 Task Router Started
+2025-05-13 17:19:55,241 - INFO - 📥 No completed download or metadata found — running downloader...
+2025-05-13 17:19:55,241 - INFO - 📥 Initiating download for: https://www.facebook.com/100044614771436/videos/pcb.1220201209477027/535040929639461
+2025-05-13 17:19:55,827 - INFO - Logging initialized.
+2025-05-13 17:19:55,946 - ERROR - Download script failed:
+Traceback (most recent call last):
+  File "/home/fritz/Desktop/teton/bin/call_download.py", line 48, in <module>
+    metadata_dir = fb.resolve_path("./metadata")
+AttributeError: module 'fb_utils' has no attribute 'resolve_path'
+
+2025-05-13 17:19:55,947 - ERROR - ❌ No metadata found after attempted download.
+2025-05-13 17:25:42,449 - INFO - Logging initialized.
+2025-05-13 17:25:42,462 - INFO - 🔁 Task Router Started
+2025-05-13 17:25:42,463 - INFO - 📥 No completed download or metadata found — running downloader...
+2025-05-13 17:25:42,463 - INFO - 📥 Initiating download for: https://www.facebook.com/100044614771436/videos/pcb.1220201209477027/535040929639461
+2025-05-13 17:25:42,931 - INFO - Logging initialized.
+2025-05-13 17:25:42,931 - INFO - 📁 Creating metadata directory: /home/fritz/Desktop/teton/lib/metadata
+2025-05-13 17:25:42,932 - INFO - 🔴 Starting task: perform_download
+2025-05-13 17:25:42,932 - INFO - ✅ Download directory ready: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 17:25:42,932 - INFO - ➡️ Facebook video detected.
+2025-05-13 17:25:42,932 - INFO - Masking metadata
+2025-05-13 17:25:42,932 - INFO - Received parameters for metadata extraction:
+2025-05-13 17:25:42,932 - INFO - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 17:25:42,932 - INFO - url: https://www.facebook.com/100044614771436/videos/pcb.1220201209477027/535040929639461
+2025-05-13 17:25:42,932 - INFO - task: perform_download
+2025-05-13 17:25:42,932 - INFO - metadata_path: /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 17:25:42,932 - INFO - video_download: {'cookie_path': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 17:25:42,932 - INFO - ✅ Using cookie file: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 17:25:48,036 - INFO - Metadata saved to /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 17:25:48,039 - INFO - Extracted and normalized metadata:
+2025-05-13 17:25:48,040 - INFO - video_title: Video
+2025-05-13 17:25:48,040 - INFO - video_date: 20250329
+2025-05-13 17:25:48,040 - INFO - uploader: Tim Ballard
+2025-05-13 17:25:48,040 - INFO - duration: 71.076
+2025-05-13 17:25:48,040 - INFO - width: 720
+2025-05-13 17:25:48,040 - INFO - height: 900
+2025-05-13 17:25:48,040 - INFO - ext: mp4
+2025-05-13 17:25:48,040 - INFO - resolution: 720x900
+2025-05-13 17:25:48,040 - INFO - fps: None
+2025-05-13 17:25:48,040 - INFO - tbr: 536.987
+2025-05-13 17:25:48,040 - INFO - protocol: https+https
+2025-05-13 17:25:48,041 - INFO - vcodec: av01.0.04M.08.0.111.05.06.05.0
+2025-05-13 17:25:48,041 - INFO - vbr: 481.459
+2025-05-13 17:25:48,041 - INFO - acodec: mp4a.40.5
+2025-05-13 17:25:48,041 - INFO - abr: 55.528
+2025-05-13 17:25:48,041 - INFO - asr: 44100
+2025-05-13 17:25:48,041 - ERROR - ❌ Unhandled error in main(): name 're' is not defined
+2025-05-13 17:25:48,121 - ERROR - Download script failed:
+Traceback (most recent call last):
+  File "/home/fritz/Desktop/teton/bin/call_download.py", line 118, in main
+    params["video_title"] = fb.safe_filename(params["video_title"])
+  File "/home/fritz/Desktop/teton/bin/../lib/fb_utils.py", line 430, in safe_filename
+    name = re.sub(r'[\\/*?:"<>|]', "_", name)         # remove invalid characters
+NameError: name 're' is not defined
+
+2025-05-13 17:25:48,122 - ERROR - ❌ No metadata found after attempted download.
+2025-05-13 17:26:15,165 - INFO - Logging initialized.
+2025-05-13 17:26:15,165 - INFO - 🔁 Task Router Started
+2025-05-13 17:26:15,165 - INFO - 📥 No completed download or metadata found — running downloader...
+2025-05-13 17:26:15,166 - INFO - 📥 Initiating download for: https://www.facebook.com/100044614771436/videos/pcb.1220201209477027/535040929639461
+2025-05-13 17:26:15,640 - INFO - Logging initialized.
+2025-05-13 17:26:15,640 - INFO - 🔴 Starting task: perform_download
+2025-05-13 17:26:15,640 - INFO - ✅ Download directory ready: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 17:26:15,640 - INFO - ➡️ Facebook video detected.
+2025-05-13 17:26:15,640 - INFO - Masking metadata
+2025-05-13 17:26:15,640 - INFO - Received parameters for metadata extraction:
+2025-05-13 17:26:15,640 - INFO - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 17:26:15,641 - INFO - url: https://www.facebook.com/100044614771436/videos/pcb.1220201209477027/535040929639461
+2025-05-13 17:26:15,641 - INFO - task: perform_download
+2025-05-13 17:26:15,641 - INFO - metadata_path: /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 17:26:15,641 - INFO - video_download: {'cookie_path': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 17:26:15,641 - INFO - ✅ Using cookie file: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 17:26:19,264 - INFO - Metadata saved to /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 17:26:19,270 - INFO - Extracted and normalized metadata:
+2025-05-13 17:26:19,272 - INFO - video_title: Video
+2025-05-13 17:26:19,272 - INFO - video_date: 20250329
+2025-05-13 17:26:19,272 - INFO - uploader: Tim Ballard
+2025-05-13 17:26:19,273 - INFO - duration: 71.076
+2025-05-13 17:26:19,273 - INFO - width: 720
+2025-05-13 17:26:19,273 - INFO - height: 900
+2025-05-13 17:26:19,273 - INFO - ext: mp4
+2025-05-13 17:26:19,273 - INFO - resolution: 720x900
+2025-05-13 17:26:19,273 - INFO - fps: None
+2025-05-13 17:26:19,273 - INFO - tbr: 536.987
+2025-05-13 17:26:19,274 - INFO - protocol: https+https
+2025-05-13 17:26:19,274 - INFO - vcodec: av01.0.04M.08.0.111.05.06.05.0
+2025-05-13 17:26:19,274 - INFO - vbr: 481.459
+2025-05-13 17:26:19,274 - INFO - acodec: mp4a.40.5
+2025-05-13 17:26:19,274 - INFO - abr: 55.528
+2025-05-13 17:26:19,274 - INFO - asr: 44100
+2025-05-13 17:26:19,276 - INFO - Generated original filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250329.mp4
+2025-05-13 17:26:19,276 - INFO - Received parameters: download_video:
+2025-05-13 17:26:19,276 - INFO - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 17:26:19,276 - INFO - url: https://www.facebook.com/100044614771436/videos/pcb.1220201209477027/535040929639461
+2025-05-13 17:26:19,277 - INFO - task: perform_download
+2025-05-13 17:26:19,277 - INFO - metadata_path: /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 17:26:19,277 - INFO - video_download: {'cookie_path': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 17:26:19,277 - INFO - video_title: Video
+2025-05-13 17:26:19,277 - INFO - video_date: 20250329
+2025-05-13 17:26:19,277 - INFO - uploader: Tim Ballard
+2025-05-13 17:26:19,277 - INFO - duration: 71.076
+2025-05-13 17:26:19,278 - INFO - width: 720
+2025-05-13 17:26:19,278 - INFO - height: 900
+2025-05-13 17:26:19,278 - INFO - ext: mp4
+2025-05-13 17:26:19,278 - INFO - resolution: 720x900
+2025-05-13 17:26:19,278 - INFO - fps: None
+2025-05-13 17:26:19,278 - INFO - tbr: 536.987
+2025-05-13 17:26:19,278 - INFO - protocol: https+https
+2025-05-13 17:26:19,279 - INFO - vcodec: av01.0.04M.08.0.111.05.06.05.0
+2025-05-13 17:26:19,279 - INFO - vbr: 481.459
+2025-05-13 17:26:19,279 - INFO - acodec: mp4a.40.5
+2025-05-13 17:26:19,279 - INFO - abr: 55.528
+2025-05-13 17:26:19,279 - INFO - asr: 44100
+2025-05-13 17:26:19,279 - INFO - original_filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250329.mp4
+2025-05-13 17:26:19,279 - INFO - Starting download for URL: https://www.facebook.com/100044614771436/videos/pcb.1220201209477027/535040929639461
+2025-05-13 17:26:19,280 - INFO - ✅ Using cookie file: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 17:26:19,280 - DEBUG - yt-dlp options: {'outtmpl': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250329.mp4', 'format': 'bestvideo+bestaudio/best', 'noplaylist': True, 'verbose': True, 'cookiefile': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 17:26:19,732 - INFO - About to download video.
+2025-05-13 17:26:28,240 - INFO - Video download completed.
+2025-05-13 17:26:28,247 - INFO - Download completed in 8.97 seconds
+2025-05-13 17:26:28,360 - INFO - Params saved to JSON file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250329.json
+2025-05-13 17:26:28,360 - INFO - ✅ Download complete: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250329.mp4
+2025-05-13 17:26:28,498 - INFO - 📦 Task metadata updated.
+2025-05-13 17:26:28,597 - INFO - Download stdout:
+2025-05-13 17:26:15,640 - Logging initialized.
+2025-05-13 17:26:15,640 - 🔴 Starting task: perform_download
+2025-05-13 17:26:15,640 - ✅ Download directory ready: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 17:26:15,640 - ➡️ Facebook video detected.
+2025-05-13 17:26:15,640 - Masking metadata
+2025-05-13 17:26:15,640 - Received parameters for metadata extraction:
+2025-05-13 17:26:15,640 - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 17:26:15,641 - url: https://www.facebook.com/100044614771436/videos/pcb.1220201209477027/535040929639461
+2025-05-13 17:26:15,641 - task: perform_download
+2025-05-13 17:26:15,641 - metadata_path: /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 17:26:15,641 - video_download: {'cookie_path': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 17:26:15,641 - ✅ Using cookie file: /home/fritz/Desktop/teton/conf/cookies.txt
+[facebook] Extracting URL: https://www.facebook.com/100044614771436/videos/pcb.1220201209477027/535040929639461
+[facebook] 535040929639461: Downloading webpage
+2025-05-13 17:26:19,264 - Metadata saved to /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 17:26:19,270 - Extracted and normalized metadata:
+2025-05-13 17:26:19,272 - video_title: Video
+2025-05-13 17:26:19,272 - video_date: 20250329
+2025-05-13 17:26:19,272 - uploader: Tim Ballard
+2025-05-13 17:26:19,273 - duration: 71.076
+2025-05-13 17:26:19,273 - width: 720
+2025-05-13 17:26:19,273 - height: 900
+2025-05-13 17:26:19,273 - ext: mp4
+2025-05-13 17:26:19,273 - resolution: 720x900
+2025-05-13 17:26:19,273 - fps: None
+2025-05-13 17:26:19,273 - tbr: 536.987
+2025-05-13 17:26:19,274 - protocol: https+https
+2025-05-13 17:26:19,274 - vcodec: av01.0.04M.08.0.111.05.06.05.0
+2025-05-13 17:26:19,274 - vbr: 481.459
+2025-05-13 17:26:19,274 - acodec: mp4a.40.5
+2025-05-13 17:26:19,274 - abr: 55.528
+2025-05-13 17:26:19,274 - asr: 44100
+2025-05-13 17:26:19,276 - Generated original filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250329.mp4
+2025-05-13 17:26:19,276 - Received parameters: download_video:
+2025-05-13 17:26:19,276 - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 17:26:19,276 - url: https://www.facebook.com/100044614771436/videos/pcb.1220201209477027/535040929639461
+2025-05-13 17:26:19,277 - task: perform_download
+2025-05-13 17:26:19,277 - metadata_path: /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 17:26:19,277 - video_download: {'cookie_path': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 17:26:19,277 - video_title: Video
+2025-05-13 17:26:19,277 - video_date: 20250329
+2025-05-13 17:26:19,277 - uploader: Tim Ballard
+2025-05-13 17:26:19,277 - duration: 71.076
+2025-05-13 17:26:19,278 - width: 720
+2025-05-13 17:26:19,278 - height: 900
+2025-05-13 17:26:19,278 - ext: mp4
+2025-05-13 17:26:19,278 - resolution: 720x900
+2025-05-13 17:26:19,278 - fps: None
+2025-05-13 17:26:19,278 - tbr: 536.987
+2025-05-13 17:26:19,278 - protocol: https+https
+2025-05-13 17:26:19,279 - vcodec: av01.0.04M.08.0.111.05.06.05.0
+2025-05-13 17:26:19,279 - vbr: 481.459
+2025-05-13 17:26:19,279 - acodec: mp4a.40.5
+2025-05-13 17:26:19,279 - abr: 55.528
+2025-05-13 17:26:19,279 - asr: 44100
+2025-05-13 17:26:19,279 - original_filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250329.mp4
+2025-05-13 17:26:19,279 - Starting download for URL: https://www.facebook.com/100044614771436/videos/pcb.1220201209477027/535040929639461
+2025-05-13 17:26:19,280 - ✅ Using cookie file: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 17:26:19,732 - About to download video.
+[facebook] Extracting URL: https://www.facebook.com/100044614771436/videos/pcb.1220201209477027/535040929639461
+[facebook] 535040929639461: Downloading webpage
+[info] 535040929639461: Downloading 1 format(s): 1202231701478515v+961247859122731a
+[download] Destination: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250329.f1202231701478515v.mp4
+
+[download]   0.0% of    4.08MiB at  917.39KiB/s ETA 00:04
+[download]   0.1% of    4.08MiB at   21.81KiB/s ETA 03:11
+[download]   0.2% of    4.08MiB at   50.22KiB/s ETA 01:23
+[download]   0.4% of    4.08MiB at  106.50KiB/s ETA 00:39
+[download]   0.7% of    4.08MiB at  192.41KiB/s ETA 00:21
+[download]   1.5% of    4.08MiB at  236.80KiB/s ETA 00:17
+[download]   3.0% of    4.08MiB at  344.89KiB/s ETA 00:11
+[download]   6.1% of    4.08MiB at  539.87KiB/s ETA 00:07
+[download]  12.2% of    4.08MiB at  887.09KiB/s ETA 00:04
+[download]  24.5% of    4.08MiB at    1.39MiB/s ETA 00:02
+[download]  49.0% of    4.08MiB at    2.24MiB/s ETA 00:00
+[download]  98.0% of    4.08MiB at    3.18MiB/s ETA 00:00
+[download] 100.0% of    4.08MiB at    3.23MiB/s ETA 00:00
+[download] 100% of    4.08MiB in 00:00:02 at 1.75MiB/s   
+[download] Destination: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250329.f961247859122731a.m4a
+
+[download]   0.2% of  483.03KiB at  979.29KiB/s ETA 00:00
+[download]   0.6% of  483.03KiB at  345.12KiB/s ETA 00:01
+[download]   1.4% of  483.03KiB at  649.34KiB/s ETA 00:00
+[download]   3.1% of  483.03KiB at    1.20MiB/s ETA 00:00
+[download]   6.4% of  483.03KiB at    2.18MiB/s ETA 00:00
+[download]  13.0% of  483.03KiB at    3.88MiB/s ETA 00:00
+[download]  26.3% of  483.03KiB at    4.56MiB/s ETA 00:00
+[download]  52.8% of  483.03KiB at  192.18KiB/s ETA 00:01
+[download]  73.2% of  483.03KiB at  245.69KiB/s ETA 00:00
+[download] 100.0% of  483.03KiB at  327.97KiB/s ETA 00:00
+[download] 100% of  483.03KiB in 00:00:01 at 269.30KiB/s 
+[Merger] Merging formats into "/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250329.mp4"
+Deleting original file /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250329.f1202231701478515v.mp4 (pass -k to keep)
+Deleting original file /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250329.f961247859122731a.m4a (pass -k to keep)
+2025-05-13 17:26:28,240 - Video download completed.
+2025-05-13 17:26:28,247 - Download completed in 8.97 seconds
+2025-05-13 17:26:28,360 - Params saved to JSON file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250329.json
+2025-05-13 17:26:28,360 - ✅ Download complete: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250329.mp4
+/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250329.mp4
+2025-05-13 17:26:28,498 - 📦 Task metadata updated.
+/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250329.mp4
+
+2025-05-13 17:26:28,598 - INFO - 🛠 Tasks to evaluate: ['perform_download', 'apply_watermark', 'make_clips', 'extract_audio', 'generate_captions', 'post_processed']
+2025-05-13 17:26:32,469 - INFO - Logging initialized.
+2025-05-13 17:26:32,471 - INFO - 🖼 Processing video file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250329.mp4
+2025-05-13 17:26:32,471 - INFO - Loaded metadata from: metadata/Tim_Ballard_20250329.json
+2025-05-13 17:26:32,472 - INFO - Starting watermarking process...
+2025-05-13 17:28:02,647 - INFO - ✅ Watermarked video created: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250329_watermarked.mp4
+2025-05-13 17:28:02,707 - DEBUG - default_tasks updated: {'perform_download': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250329.mp4', 'apply_watermark': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250329_watermarked.mp4', 'make_clips': True, 'extract_audio': True, 'generate_captions': True, 'post_processed': False}
+2025-05-13 18:25:12,016 - INFO - Logging initialized.
+2025-05-13 18:25:12,024 - INFO - 🔁 Task Router Started
+2025-05-13 18:25:12,058 - INFO - 📥 No completed download or metadata found — running downloader...
+2025-05-13 18:25:12,058 - INFO - 📥 Initiating download for: https:/https://www.facebook.com/officialtimballard/videos/445116415295419
+2025-05-13 18:25:12,643 - INFO - Logging initialized.
+2025-05-13 18:25:12,643 - INFO - 🔴 Starting task: perform_download
+2025-05-13 18:25:12,643 - INFO - ✅ Download directory ready: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 18:25:12,644 - INFO - ➡️ Facebook video detected.
+2025-05-13 18:25:12,644 - INFO - Masking metadata
+2025-05-13 18:25:12,644 - INFO - Received parameters for metadata extraction:
+2025-05-13 18:25:12,644 - INFO - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 18:25:12,644 - INFO - url: https:/https://www.facebook.com/officialtimballard/videos/445116415295419
+2025-05-13 18:25:12,644 - INFO - task: perform_download
+2025-05-13 18:25:12,644 - INFO - metadata_path: /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 18:25:12,644 - INFO - video_download: {'cookie_path': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 18:25:12,644 - INFO - ✅ Using cookie file: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 18:25:13,908 - ERROR - Failed to extract metadata: Invalid URL 'https:///https://www.facebook.com/officialtimballard/videos/445116415295419': No host supplied
+2025-05-13 18:25:13,909 - ERROR - ❌ No metadata returned. Aborting task.
+2025-05-13 18:25:13,994 - INFO - Download stdout:
+2025-05-13 18:25:12,643 - Logging initialized.
+2025-05-13 18:25:12,643 - 🔴 Starting task: perform_download
+2025-05-13 18:25:12,643 - ✅ Download directory ready: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 18:25:12,644 - ➡️ Facebook video detected.
+2025-05-13 18:25:12,644 - Masking metadata
+2025-05-13 18:25:12,644 - Received parameters for metadata extraction:
+2025-05-13 18:25:12,644 - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 18:25:12,644 - url: https:/https://www.facebook.com/officialtimballard/videos/445116415295419
+2025-05-13 18:25:12,644 - task: perform_download
+2025-05-13 18:25:12,644 - metadata_path: /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 18:25:12,644 - video_download: {'cookie_path': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 18:25:12,644 - ✅ Using cookie file: /home/fritz/Desktop/teton/conf/cookies.txt
+[generic] Extracting URL: https:/https://www.facebook.com/officialtimballard/videos/445116415295419
+[generic] 445116415295419: Downloading webpage
+2025-05-13 18:25:13,908 - Failed to extract metadata: Invalid URL 'https:///https://www.facebook.com/officialtimballard/videos/445116415295419': No host supplied
+2025-05-13 18:25:13,909 - ❌ No metadata returned. Aborting task.
+
+2025-05-13 18:25:13,995 - ERROR - ❌ No metadata found after attempted download.
+2025-05-13 18:30:23,109 - INFO - Logging initialized.
+2025-05-13 18:30:23,161 - INFO - 🔁 Task Router Started
+2025-05-13 18:30:23,228 - INFO - 📥 No completed download or metadata found — running downloader...
+2025-05-13 18:30:23,228 - INFO - 📥 Initiating download for: https://www.facebook.com/share/v/1951hRonsq/
+2025-05-13 18:30:23,769 - INFO - Logging initialized.
+2025-05-13 18:30:23,770 - INFO - 🔴 Starting task: perform_download
+2025-05-13 18:30:23,770 - INFO - ✅ Download directory ready: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 18:30:23,770 - INFO - ➡️ Facebook video detected.
+2025-05-13 18:30:23,770 - INFO - Masking metadata
+2025-05-13 18:30:23,770 - INFO - Received parameters for metadata extraction:
+2025-05-13 18:30:23,770 - INFO - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 18:30:23,770 - INFO - url: https://www.facebook.com/share/v/1951hRonsq/
+2025-05-13 18:30:23,770 - INFO - task: perform_download
+2025-05-13 18:30:23,770 - INFO - metadata_path: /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 18:30:23,770 - INFO - video_download: {'cookie_path': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 18:30:23,770 - INFO - ✅ Using cookie file: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 18:30:31,751 - INFO - Metadata saved to /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 18:30:31,760 - INFO - Extracted and normalized metadata:
+2025-05-13 18:30:31,762 - INFO - video_title: Video
+2025-05-13 18:30:31,762 - INFO - video_date: 20250318
+2025-05-13 18:30:31,762 - INFO - uploader: Tim Ballard
+2025-05-13 18:30:31,763 - INFO - duration: 11.933
+2025-05-13 18:30:31,763 - INFO - width: 720
+2025-05-13 18:30:31,763 - INFO - height: 1280
+2025-05-13 18:30:31,763 - INFO - ext: mp4
+2025-05-13 18:30:31,763 - INFO - resolution: 720x1280
+2025-05-13 18:30:31,763 - INFO - fps: None
+2025-05-13 18:30:31,763 - INFO - tbr: 275.554
+2025-05-13 18:30:31,764 - INFO - protocol: https+https
+2025-05-13 18:30:31,764 - INFO - vcodec: vp09.00.31.08.00.01.01.01.00
+2025-05-13 18:30:31,764 - INFO - vbr: 195.734
+2025-05-13 18:30:31,764 - INFO - acodec: mp4a.40.5
+2025-05-13 18:30:31,764 - INFO - abr: 79.82
+2025-05-13 18:30:31,764 - INFO - asr: 44100
+2025-05-13 18:30:31,773 - INFO - Generated original filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250318.mp4
+2025-05-13 18:30:31,774 - INFO - Received parameters: download_video:
+2025-05-13 18:30:31,774 - INFO - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 18:30:31,774 - INFO - url: https://www.facebook.com/share/v/1951hRonsq/
+2025-05-13 18:30:31,775 - INFO - task: perform_download
+2025-05-13 18:30:31,775 - INFO - metadata_path: /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 18:30:31,775 - INFO - video_download: {'cookie_path': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 18:30:31,776 - INFO - video_title: Video
+2025-05-13 18:30:31,776 - INFO - video_date: 20250318
+2025-05-13 18:30:31,776 - INFO - uploader: Tim Ballard
+2025-05-13 18:30:31,776 - INFO - duration: 11.933
+2025-05-13 18:30:31,776 - INFO - width: 720
+2025-05-13 18:30:31,777 - INFO - height: 1280
+2025-05-13 18:30:31,777 - INFO - ext: mp4
+2025-05-13 18:30:31,777 - INFO - resolution: 720x1280
+2025-05-13 18:30:31,778 - INFO - fps: None
+2025-05-13 18:30:31,778 - INFO - tbr: 275.554
+2025-05-13 18:30:31,778 - INFO - protocol: https+https
+2025-05-13 18:30:31,778 - INFO - vcodec: vp09.00.31.08.00.01.01.01.00
+2025-05-13 18:30:31,778 - INFO - vbr: 195.734
+2025-05-13 18:30:31,779 - INFO - acodec: mp4a.40.5
+2025-05-13 18:30:31,779 - INFO - abr: 79.82
+2025-05-13 18:30:31,779 - INFO - asr: 44100
+2025-05-13 18:30:31,779 - INFO - original_filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250318.mp4
+2025-05-13 18:30:31,780 - INFO - Starting download for URL: https://www.facebook.com/share/v/1951hRonsq/
+2025-05-13 18:30:31,780 - INFO - ✅ Using cookie file: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 18:30:31,780 - DEBUG - yt-dlp options: {'outtmpl': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250318.mp4', 'format': 'bestvideo+bestaudio/best', 'noplaylist': True, 'verbose': True, 'cookiefile': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 18:30:32,357 - INFO - About to download video.
+2025-05-13 18:30:39,264 - INFO - Video download completed.
+2025-05-13 18:30:39,274 - INFO - Download completed in 7.49 seconds
+2025-05-13 18:30:39,384 - INFO - Params saved to JSON file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250318.json
+2025-05-13 18:30:39,384 - INFO - ✅ Download complete: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250318.mp4
+2025-05-13 18:30:39,526 - INFO - 📦 Task metadata updated.
+2025-05-13 18:30:39,670 - INFO - Download stdout:
+2025-05-13 18:30:23,769 - Logging initialized.
+2025-05-13 18:30:23,770 - 🔴 Starting task: perform_download
+2025-05-13 18:30:23,770 - ✅ Download directory ready: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 18:30:23,770 - ➡️ Facebook video detected.
+2025-05-13 18:30:23,770 - Masking metadata
+2025-05-13 18:30:23,770 - Received parameters for metadata extraction:
+2025-05-13 18:30:23,770 - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 18:30:23,770 - url: https://www.facebook.com/share/v/1951hRonsq/
+2025-05-13 18:30:23,770 - task: perform_download
+2025-05-13 18:30:23,770 - metadata_path: /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 18:30:23,770 - video_download: {'cookie_path': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 18:30:23,770 - ✅ Using cookie file: /home/fritz/Desktop/teton/conf/cookies.txt
+[generic] Extracting URL: https://www.facebook.com/share/v/1951hRonsq/
+[generic] 1951hRonsq: Downloading webpage
+[redirect] Following redirect to https://www.facebook.com/watch/?share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fv%2F1951hRonsq%2F&v=1361032678135573&rdid=duY0KF43JYZTh7pH
+[facebook] Extracting URL: https://www.facebook.com/watch/?share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fv%2F1951hRonsq...did=duY0KF43JYZTh7pH
+[facebook] 1361032678135573: Downloading webpage
+2025-05-13 18:30:31,751 - Metadata saved to /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 18:30:31,760 - Extracted and normalized metadata:
+2025-05-13 18:30:31,762 - video_title: Video
+2025-05-13 18:30:31,762 - video_date: 20250318
+2025-05-13 18:30:31,762 - uploader: Tim Ballard
+2025-05-13 18:30:31,763 - duration: 11.933
+2025-05-13 18:30:31,763 - width: 720
+2025-05-13 18:30:31,763 - height: 1280
+2025-05-13 18:30:31,763 - ext: mp4
+2025-05-13 18:30:31,763 - resolution: 720x1280
+2025-05-13 18:30:31,763 - fps: None
+2025-05-13 18:30:31,763 - tbr: 275.554
+2025-05-13 18:30:31,764 - protocol: https+https
+2025-05-13 18:30:31,764 - vcodec: vp09.00.31.08.00.01.01.01.00
+2025-05-13 18:30:31,764 - vbr: 195.734
+2025-05-13 18:30:31,764 - acodec: mp4a.40.5
+2025-05-13 18:30:31,764 - abr: 79.82
+2025-05-13 18:30:31,764 - asr: 44100
+2025-05-13 18:30:31,773 - Generated original filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250318.mp4
+2025-05-13 18:30:31,774 - Received parameters: download_video:
+2025-05-13 18:30:31,774 - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 18:30:31,774 - url: https://www.facebook.com/share/v/1951hRonsq/
+2025-05-13 18:30:31,775 - task: perform_download
+2025-05-13 18:30:31,775 - metadata_path: /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 18:30:31,775 - video_download: {'cookie_path': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 18:30:31,776 - video_title: Video
+2025-05-13 18:30:31,776 - video_date: 20250318
+2025-05-13 18:30:31,776 - uploader: Tim Ballard
+2025-05-13 18:30:31,776 - duration: 11.933
+2025-05-13 18:30:31,776 - width: 720
+2025-05-13 18:30:31,777 - height: 1280
+2025-05-13 18:30:31,777 - ext: mp4
+2025-05-13 18:30:31,777 - resolution: 720x1280
+2025-05-13 18:30:31,778 - fps: None
+2025-05-13 18:30:31,778 - tbr: 275.554
+2025-05-13 18:30:31,778 - protocol: https+https
+2025-05-13 18:30:31,778 - vcodec: vp09.00.31.08.00.01.01.01.00
+2025-05-13 18:30:31,778 - vbr: 195.734
+2025-05-13 18:30:31,779 - acodec: mp4a.40.5
+2025-05-13 18:30:31,779 - abr: 79.82
+2025-05-13 18:30:31,779 - asr: 44100
+2025-05-13 18:30:31,779 - original_filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250318.mp4
+2025-05-13 18:30:31,780 - Starting download for URL: https://www.facebook.com/share/v/1951hRonsq/
+2025-05-13 18:30:31,780 - ✅ Using cookie file: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 18:30:32,357 - About to download video.
+[generic] Extracting URL: https://www.facebook.com/share/v/1951hRonsq/
+[generic] 1951hRonsq: Downloading webpage
+[redirect] Following redirect to https://www.facebook.com/watch/?share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fv%2F1951hRonsq%2F&v=1361032678135573&rdid=Wpuv5T7vFUIRveAP
+[facebook] Extracting URL: https://www.facebook.com/watch/?share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fv%2F1951hRonsq%2F&v=1361032678135573&rdid=Wpuv5T7vFUIRveAP
+[facebook] 1361032678135573: Downloading webpage
+[info] 1361032678135573: Downloading 1 format(s): 1886810172075982v+3529988857308727a
+[download] Destination: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250318.f1886810172075982v.mp4
+
+[download]   0.3% of  285.92KiB at  828.75KiB/s ETA 00:00
+[download]   1.0% of  285.92KiB at   28.44KiB/s ETA 00:09
+[download]   2.4% of  285.92KiB at   65.33KiB/s ETA 00:04
+[download]   5.2% of  285.92KiB at  138.22KiB/s ETA 00:01
+[download]  10.8% of  285.92KiB at  170.66KiB/s ETA 00:01
+[download]  22.0% of  285.92KiB at  266.03KiB/s ETA 00:00
+[download]  44.4% of  285.92KiB at  378.12KiB/s ETA 00:00
+[download]  89.2% of  285.92KiB at  546.65KiB/s ETA 00:00
+[download] 100.0% of  285.92KiB at  600.24KiB/s ETA 00:00
+[download] 100% of  285.92KiB in 00:00:01 at 272.58KiB/s 
+[download] Destination: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250318.f3529988857308727a.m4a
+
+[download]   0.9% of  116.97KiB at  854.41KiB/s ETA 00:00
+[download]   2.6% of  116.97KiB at   22.90KiB/s ETA 00:04
+[download]   6.0% of  116.97KiB at   52.57KiB/s ETA 00:02
+[download]  12.8% of  116.97KiB at  111.10KiB/s ETA 00:00
+[download]  26.5% of  116.97KiB at  226.99KiB/s ETA 00:00
+[download]  53.9% of  116.97KiB at  455.05KiB/s ETA 00:00
+[download] 100.0% of  116.97KiB at  830.48KiB/s ETA 00:00
+[download] 100% of  116.97KiB in 00:00:00 at 211.37KiB/s 
+[Merger] Merging formats into "/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250318.mp4"
+Deleting original file /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250318.f1886810172075982v.mp4 (pass -k to keep)
+Deleting original file /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250318.f3529988857308727a.m4a (pass -k to keep)
+2025-05-13 18:30:39,264 - Video download completed.
+2025-05-13 18:30:39,274 - Download completed in 7.49 seconds
+2025-05-13 18:30:39,384 - Params saved to JSON file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250318.json
+2025-05-13 18:30:39,384 - ✅ Download complete: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250318.mp4
+/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250318.mp4
+2025-05-13 18:30:39,526 - 📦 Task metadata updated.
+/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250318.mp4
+
+2025-05-13 18:30:39,675 - INFO - 🛠 Tasks to evaluate: ['perform_download', 'apply_watermark', 'make_clips', 'extract_audio', 'generate_captions', 'post_processed']
+2025-05-13 18:30:42,974 - INFO - Logging initialized.
+2025-05-13 18:30:42,976 - INFO - 🖼 Processing video file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250318.mp4
+2025-05-13 18:30:42,976 - INFO - Loaded metadata from: metadata/Tim_Ballard_20250318.json
+2025-05-13 18:30:42,977 - INFO - Starting watermarking process...
+2025-05-13 18:30:58,738 - INFO - ✅ Watermarked video created: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250318_watermarked.mp4
+2025-05-13 18:30:58,832 - DEBUG - default_tasks updated: {'perform_download': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250318.mp4', 'apply_watermark': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250318_watermarked.mp4', 'make_clips': True, 'extract_audio': True, 'generate_captions': True, 'post_processed': False}
+2025-05-13 18:35:07,399 - INFO - Logging initialized.
+2025-05-13 18:35:07,399 - INFO - 🔁 Task Router Started
+2025-05-13 18:35:07,410 - INFO - 📥 No completed download or metadata found — running downloader...
+2025-05-13 18:35:07,410 - INFO - 📥 Initiating download for: https://www.facebook.com/officialtimballard/videos/648423914351644
+2025-05-13 18:35:08,066 - INFO - Logging initialized.
+2025-05-13 18:35:08,066 - INFO - 🔴 Starting task: perform_download
+2025-05-13 18:35:08,066 - INFO - ✅ Download directory ready: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 18:35:08,066 - INFO - ➡️ Facebook video detected.
+2025-05-13 18:35:08,067 - INFO - Masking metadata
+2025-05-13 18:35:08,067 - INFO - Received parameters for metadata extraction:
+2025-05-13 18:35:08,067 - INFO - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 18:35:08,067 - INFO - url: https://www.facebook.com/officialtimballard/videos/648423914351644
+2025-05-13 18:35:08,067 - INFO - task: perform_download
+2025-05-13 18:35:08,067 - INFO - metadata_path: /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 18:35:08,067 - INFO - video_download: {'cookie_path': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 18:35:08,067 - INFO - ✅ Using cookie file: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 18:35:16,973 - INFO - Metadata saved to /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 18:35:16,982 - INFO - Extracted and normalized metadata:
+2025-05-13 18:35:16,984 - INFO - video_title: Video
+2025-05-13 18:35:16,984 - INFO - video_date: 20250224
+2025-05-13 18:35:16,985 - INFO - uploader: Tim Ballard
+2025-05-13 18:35:16,985 - INFO - duration: 172.942
+2025-05-13 18:35:16,985 - INFO - width: 1080
+2025-05-13 18:35:16,986 - INFO - height: 1920
+2025-05-13 18:35:16,986 - INFO - ext: mp4
+2025-05-13 18:35:16,986 - INFO - resolution: 1080x1920
+2025-05-13 18:35:16,987 - INFO - fps: None
+2025-05-13 18:35:16,988 - INFO - tbr: 688.86
+2025-05-13 18:35:16,988 - INFO - protocol: https+https
+2025-05-13 18:35:16,988 - INFO - vcodec: vp09.00.40.08.00.01.01.01.00
+2025-05-13 18:35:16,988 - INFO - vbr: 620.508
+2025-05-13 18:35:16,988 - INFO - acodec: mp4a.40.5
+2025-05-13 18:35:16,989 - INFO - abr: 68.352
+2025-05-13 18:35:16,989 - INFO - asr: 44100
+2025-05-13 18:35:16,990 - INFO - Generated original filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250224.mp4
+2025-05-13 18:35:16,990 - INFO - Received parameters: download_video:
+2025-05-13 18:35:16,991 - INFO - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 18:35:16,991 - INFO - url: https://www.facebook.com/officialtimballard/videos/648423914351644
+2025-05-13 18:35:16,991 - INFO - task: perform_download
+2025-05-13 18:35:16,991 - INFO - metadata_path: /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 18:35:16,992 - INFO - video_download: {'cookie_path': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 18:35:16,992 - INFO - video_title: Video
+2025-05-13 18:35:16,992 - INFO - video_date: 20250224
+2025-05-13 18:35:16,992 - INFO - uploader: Tim Ballard
+2025-05-13 18:35:16,992 - INFO - duration: 172.942
+2025-05-13 18:35:16,992 - INFO - width: 1080
+2025-05-13 18:35:16,993 - INFO - height: 1920
+2025-05-13 18:35:16,993 - INFO - ext: mp4
+2025-05-13 18:35:16,993 - INFO - resolution: 1080x1920
+2025-05-13 18:35:16,993 - INFO - fps: None
+2025-05-13 18:35:16,993 - INFO - tbr: 688.86
+2025-05-13 18:35:16,993 - INFO - protocol: https+https
+2025-05-13 18:35:16,994 - INFO - vcodec: vp09.00.40.08.00.01.01.01.00
+2025-05-13 18:35:16,994 - INFO - vbr: 620.508
+2025-05-13 18:35:16,994 - INFO - acodec: mp4a.40.5
+2025-05-13 18:35:16,994 - INFO - abr: 68.352
+2025-05-13 18:35:16,994 - INFO - asr: 44100
+2025-05-13 18:35:16,994 - INFO - original_filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250224.mp4
+2025-05-13 18:35:16,994 - INFO - Starting download for URL: https://www.facebook.com/officialtimballard/videos/648423914351644
+2025-05-13 18:35:16,995 - INFO - ✅ Using cookie file: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 18:35:16,995 - DEBUG - yt-dlp options: {'outtmpl': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250224.mp4', 'format': 'bestvideo+bestaudio/best', 'noplaylist': True, 'verbose': True, 'cookiefile': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 18:35:17,458 - INFO - About to download video.
+2025-05-13 18:35:37,034 - INFO - Video download completed.
+2025-05-13 18:35:37,037 - INFO - Download completed in 20.04 seconds
+2025-05-13 18:35:37,148 - INFO - Params saved to JSON file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250224.json
+2025-05-13 18:35:37,149 - INFO - ✅ Download complete: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250224.mp4
+2025-05-13 18:35:37,289 - INFO - 📦 Task metadata updated.
+2025-05-13 18:35:37,401 - INFO - Download stdout:
+2025-05-13 18:35:08,066 - Logging initialized.
+2025-05-13 18:35:08,066 - 🔴 Starting task: perform_download
+2025-05-13 18:35:08,066 - ✅ Download directory ready: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 18:35:08,066 - ➡️ Facebook video detected.
+2025-05-13 18:35:08,067 - Masking metadata
+2025-05-13 18:35:08,067 - Received parameters for metadata extraction:
+2025-05-13 18:35:08,067 - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 18:35:08,067 - url: https://www.facebook.com/officialtimballard/videos/648423914351644
+2025-05-13 18:35:08,067 - task: perform_download
+2025-05-13 18:35:08,067 - metadata_path: /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 18:35:08,067 - video_download: {'cookie_path': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 18:35:08,067 - ✅ Using cookie file: /home/fritz/Desktop/teton/conf/cookies.txt
+[facebook] Extracting URL: https://www.facebook.com/officialtimballard/videos/648423914351644
+[facebook] 648423914351644: Downloading webpage
+2025-05-13 18:35:16,973 - Metadata saved to /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 18:35:16,982 - Extracted and normalized metadata:
+2025-05-13 18:35:16,984 - video_title: Video
+2025-05-13 18:35:16,984 - video_date: 20250224
+2025-05-13 18:35:16,985 - uploader: Tim Ballard
+2025-05-13 18:35:16,985 - duration: 172.942
+2025-05-13 18:35:16,985 - width: 1080
+2025-05-13 18:35:16,986 - height: 1920
+2025-05-13 18:35:16,986 - ext: mp4
+2025-05-13 18:35:16,986 - resolution: 1080x1920
+2025-05-13 18:35:16,987 - fps: None
+2025-05-13 18:35:16,988 - tbr: 688.86
+2025-05-13 18:35:16,988 - protocol: https+https
+2025-05-13 18:35:16,988 - vcodec: vp09.00.40.08.00.01.01.01.00
+2025-05-13 18:35:16,988 - vbr: 620.508
+2025-05-13 18:35:16,988 - acodec: mp4a.40.5
+2025-05-13 18:35:16,989 - abr: 68.352
+2025-05-13 18:35:16,989 - asr: 44100
+2025-05-13 18:35:16,990 - Generated original filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250224.mp4
+2025-05-13 18:35:16,990 - Received parameters: download_video:
+2025-05-13 18:35:16,991 - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 18:35:16,991 - url: https://www.facebook.com/officialtimballard/videos/648423914351644
+2025-05-13 18:35:16,991 - task: perform_download
+2025-05-13 18:35:16,991 - metadata_path: /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 18:35:16,992 - video_download: {'cookie_path': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 18:35:16,992 - video_title: Video
+2025-05-13 18:35:16,992 - video_date: 20250224
+2025-05-13 18:35:16,992 - uploader: Tim Ballard
+2025-05-13 18:35:16,992 - duration: 172.942
+2025-05-13 18:35:16,992 - width: 1080
+2025-05-13 18:35:16,993 - height: 1920
+2025-05-13 18:35:16,993 - ext: mp4
+2025-05-13 18:35:16,993 - resolution: 1080x1920
+2025-05-13 18:35:16,993 - fps: None
+2025-05-13 18:35:16,993 - tbr: 688.86
+2025-05-13 18:35:16,993 - protocol: https+https
+2025-05-13 18:35:16,994 - vcodec: vp09.00.40.08.00.01.01.01.00
+2025-05-13 18:35:16,994 - vbr: 620.508
+2025-05-13 18:35:16,994 - acodec: mp4a.40.5
+2025-05-13 18:35:16,994 - abr: 68.352
+2025-05-13 18:35:16,994 - asr: 44100
+2025-05-13 18:35:16,994 - original_filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250224.mp4
+2025-05-13 18:35:16,994 - Starting download for URL: https://www.facebook.com/officialtimballard/videos/648423914351644
+2025-05-13 18:35:16,995 - ✅ Using cookie file: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 18:35:17,458 - About to download video.
+[facebook] Extracting URL: https://www.facebook.com/officialtimballard/videos/648423914351644
+[facebook] 648423914351644: Downloading webpage
+[info] 648423914351644: Downloading 1 format(s): 1181231996900344v+9084938421613506a
+[download] Destination: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250224.f1181231996900344v.mp4
+
+[download]   0.0% of   12.79MiB at  861.25KiB/s ETA 00:15
+[download]   0.0% of   12.79MiB at   30.84KiB/s ETA 07:04
+[download]   0.1% of   12.79MiB at   71.49KiB/s ETA 03:03
+[download]   0.1% of   12.79MiB at  152.41KiB/s ETA 01:25
+[download]   0.2% of   12.79MiB at  212.90KiB/s ETA 01:01
+[download]   0.5% of   12.79MiB at  290.79KiB/s ETA 00:44
+[download]   1.0% of   12.79MiB at  418.62KiB/s ETA 00:30
+[download]   1.9% of   12.79MiB at  624.03KiB/s ETA 00:20
+[download]   3.9% of   12.79MiB at  952.27KiB/s ETA 00:13
+[download]   7.8% of   12.79MiB at    1.19MiB/s ETA 00:09
+[download]  15.6% of   12.79MiB at    1.46MiB/s ETA 00:07
+[download]  30.5% of   12.79MiB at    1.09MiB/s ETA 00:08
+[download]  38.0% of   12.79MiB at    1.29MiB/s ETA 00:06
+[download]  52.9% of   12.79MiB at    1.31MiB/s ETA 00:04
+[download]  63.7% of   12.79MiB at    1.40MiB/s ETA 00:03
+[download]  80.4% of   12.79MiB at    1.38MiB/s ETA 00:01
+[download]  90.5% of   12.79MiB at    1.37MiB/s ETA 00:00
+[download] 100.0% of   12.79MiB at    1.41MiB/s ETA 00:00
+[download] 100% of   12.79MiB in 00:00:10 at 1.25MiB/s   
+[download] Destination: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250224.f9084938421613506a.m4a
+
+[download]   0.1% of    1.41MiB at   98.55KiB/s ETA 00:14
+[download]   0.2% of    1.41MiB at  250.10KiB/s ETA 00:05
+[download]   0.5% of    1.41MiB at  500.82KiB/s ETA 00:02
+[download]   1.0% of    1.41MiB at  904.85KiB/s ETA 00:01
+[download]   2.1% of    1.41MiB at    1.51MiB/s ETA 00:00
+[download]   4.4% of    1.41MiB at    2.43MiB/s ETA 00:00
+[download]   8.8% of    1.41MiB at    2.01MiB/s ETA 00:00
+[download]  17.6% of    1.41MiB at  421.08KiB/s ETA 00:02
+[download]  33.9% of    1.41MiB at  782.30KiB/s ETA 00:01
+[download]  66.5% of    1.41MiB at    1.01MiB/s ETA 00:00
+[download] 100.0% of    1.41MiB at    1.06MiB/s ETA 00:00
+[download] 100% of    1.41MiB in 00:00:01 at 765.35KiB/s 
+[Merger] Merging formats into "/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250224.mp4"
+Deleting original file /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250224.f9084938421613506a.m4a (pass -k to keep)
+Deleting original file /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250224.f1181231996900344v.mp4 (pass -k to keep)
+2025-05-13 18:35:37,034 - Video download completed.
+2025-05-13 18:35:37,037 - Download completed in 20.04 seconds
+2025-05-13 18:35:37,148 - Params saved to JSON file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250224.json
+2025-05-13 18:35:37,149 - ✅ Download complete: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250224.mp4
+/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250224.mp4
+2025-05-13 18:35:37,289 - 📦 Task metadata updated.
+/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250224.mp4
+
+2025-05-13 18:35:37,402 - INFO - 🛠 Tasks to evaluate: ['perform_download', 'apply_watermark', 'make_clips', 'extract_audio', 'generate_captions', 'post_processed']
+2025-05-13 18:35:40,927 - INFO - Logging initialized.
+2025-05-13 18:35:40,927 - INFO - 🖼 Processing video file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250224.mp4
+2025-05-13 18:35:40,928 - INFO - Loaded metadata from: metadata/Tim_Ballard_20250224.json
+2025-05-13 18:35:40,928 - INFO - Starting watermarking process...
+2025-05-13 18:45:45,090 - INFO - ✅ Watermarked video created: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250224_watermarked.mp4
+2025-05-13 18:45:45,218 - DEBUG - default_tasks updated: {'perform_download': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250224.mp4', 'apply_watermark': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250224_watermarked.mp4', 'make_clips': True, 'extract_audio': True, 'generate_captions': True, 'post_processed': False}
+2025-05-13 19:54:22,478 - INFO - Logging initialized.
+2025-05-13 19:54:22,479 - INFO - 🔁 Task Router Started
+2025-05-13 19:54:22,530 - INFO - 📥 No completed download or metadata found — running downloader...
+2025-05-13 19:54:22,530 - INFO - 📥 Initiating download for: https://www.facebook.com/officialtimballard/videos/1127892355216463
+2025-05-13 19:54:23,182 - INFO - Logging initialized.
+2025-05-13 19:54:23,182 - INFO - 🔴 Starting task: perform_download
+2025-05-13 19:54:23,182 - INFO - ✅ Download directory ready: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 19:54:23,183 - INFO - ➡️ Facebook video detected.
+2025-05-13 19:54:23,183 - INFO - Masking metadata
+2025-05-13 19:54:23,183 - INFO - Received parameters for metadata extraction:
+2025-05-13 19:54:23,183 - INFO - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 19:54:23,183 - INFO - url: https://www.facebook.com/officialtimballard/videos/1127892355216463
+2025-05-13 19:54:23,183 - INFO - task: perform_download
+2025-05-13 19:54:23,183 - INFO - metadata_path: /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 19:54:23,183 - INFO - video_download: {'cookie_path': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 19:54:23,183 - INFO - ✅ Using cookie file: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 19:54:29,952 - INFO - Metadata saved to /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 19:54:29,957 - INFO - Extracted and normalized metadata:
+2025-05-13 19:54:29,958 - INFO - video_title: Video
+2025-05-13 19:54:29,958 - INFO - video_date: 20250208
+2025-05-13 19:54:29,958 - INFO - uploader: Tim Ballard
+2025-05-13 19:54:29,958 - INFO - duration: 173.139
+2025-05-13 19:54:29,958 - INFO - width: 1920
+2025-05-13 19:54:29,959 - INFO - height: 1080
+2025-05-13 19:54:29,959 - INFO - ext: mp4
+2025-05-13 19:54:29,959 - INFO - resolution: 1920x1080
+2025-05-13 19:54:29,959 - INFO - fps: None
+2025-05-13 19:54:29,959 - INFO - tbr: 1641.267
+2025-05-13 19:54:29,959 - INFO - protocol: https+https
+2025-05-13 19:54:29,959 - INFO - vcodec: vp09.00.40.08.00.02.02.02.00
+2025-05-13 19:54:29,959 - INFO - vbr: 1564.357
+2025-05-13 19:54:29,959 - INFO - acodec: mp4a.40.5
+2025-05-13 19:54:29,960 - INFO - abr: 76.91
+2025-05-13 19:54:29,960 - INFO - asr: 48000
+2025-05-13 19:54:29,960 - INFO - Generated original filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250208.mp4
+2025-05-13 19:54:29,961 - INFO - Received parameters: download_video:
+2025-05-13 19:54:29,961 - INFO - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 19:54:29,961 - INFO - url: https://www.facebook.com/officialtimballard/videos/1127892355216463
+2025-05-13 19:54:29,961 - INFO - task: perform_download
+2025-05-13 19:54:29,961 - INFO - metadata_path: /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 19:54:29,961 - INFO - video_download: {'cookie_path': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 19:54:29,961 - INFO - video_title: Video
+2025-05-13 19:54:29,961 - INFO - video_date: 20250208
+2025-05-13 19:54:29,961 - INFO - uploader: Tim Ballard
+2025-05-13 19:54:29,962 - INFO - duration: 173.139
+2025-05-13 19:54:29,962 - INFO - width: 1920
+2025-05-13 19:54:29,962 - INFO - height: 1080
+2025-05-13 19:54:29,962 - INFO - ext: mp4
+2025-05-13 19:54:29,962 - INFO - resolution: 1920x1080
+2025-05-13 19:54:29,962 - INFO - fps: None
+2025-05-13 19:54:29,962 - INFO - tbr: 1641.267
+2025-05-13 19:54:29,962 - INFO - protocol: https+https
+2025-05-13 19:54:29,962 - INFO - vcodec: vp09.00.40.08.00.02.02.02.00
+2025-05-13 19:54:29,962 - INFO - vbr: 1564.357
+2025-05-13 19:54:29,962 - INFO - acodec: mp4a.40.5
+2025-05-13 19:54:29,963 - INFO - abr: 76.91
+2025-05-13 19:54:29,963 - INFO - asr: 48000
+2025-05-13 19:54:29,963 - INFO - original_filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250208.mp4
+2025-05-13 19:54:29,963 - INFO - Starting download for URL: https://www.facebook.com/officialtimballard/videos/1127892355216463
+2025-05-13 19:54:29,963 - INFO - ✅ Using cookie file: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 19:54:29,963 - DEBUG - yt-dlp options: {'outtmpl': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250208.mp4', 'format': 'bestvideo+bestaudio/best', 'noplaylist': True, 'verbose': True, 'cookiefile': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 19:54:30,726 - INFO - About to download video.
+2025-05-13 19:54:49,599 - INFO - Video download completed.
+2025-05-13 19:54:49,606 - INFO - Download completed in 19.64 seconds
+2025-05-13 19:54:49,712 - INFO - Params saved to JSON file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250208.json
+2025-05-13 19:54:49,712 - INFO - ✅ Download complete: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250208.mp4
+2025-05-13 19:54:49,857 - INFO - 📦 Task metadata updated.
+2025-05-13 19:54:49,987 - INFO - Download stdout:
+2025-05-13 19:54:23,182 - Logging initialized.
+2025-05-13 19:54:23,182 - 🔴 Starting task: perform_download
+2025-05-13 19:54:23,182 - ✅ Download directory ready: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 19:54:23,183 - ➡️ Facebook video detected.
+2025-05-13 19:54:23,183 - Masking metadata
+2025-05-13 19:54:23,183 - Received parameters for metadata extraction:
+2025-05-13 19:54:23,183 - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 19:54:23,183 - url: https://www.facebook.com/officialtimballard/videos/1127892355216463
+2025-05-13 19:54:23,183 - task: perform_download
+2025-05-13 19:54:23,183 - metadata_path: /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 19:54:23,183 - video_download: {'cookie_path': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 19:54:23,183 - ✅ Using cookie file: /home/fritz/Desktop/teton/conf/cookies.txt
+[facebook] Extracting URL: https://www.facebook.com/officialtimballard/videos/1127892355216463
+[facebook] 1127892355216463: Downloading webpage
+2025-05-13 19:54:29,952 - Metadata saved to /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 19:54:29,957 - Extracted and normalized metadata:
+2025-05-13 19:54:29,958 - video_title: Video
+2025-05-13 19:54:29,958 - video_date: 20250208
+2025-05-13 19:54:29,958 - uploader: Tim Ballard
+2025-05-13 19:54:29,958 - duration: 173.139
+2025-05-13 19:54:29,958 - width: 1920
+2025-05-13 19:54:29,959 - height: 1080
+2025-05-13 19:54:29,959 - ext: mp4
+2025-05-13 19:54:29,959 - resolution: 1920x1080
+2025-05-13 19:54:29,959 - fps: None
+2025-05-13 19:54:29,959 - tbr: 1641.267
+2025-05-13 19:54:29,959 - protocol: https+https
+2025-05-13 19:54:29,959 - vcodec: vp09.00.40.08.00.02.02.02.00
+2025-05-13 19:54:29,959 - vbr: 1564.357
+2025-05-13 19:54:29,959 - acodec: mp4a.40.5
+2025-05-13 19:54:29,960 - abr: 76.91
+2025-05-13 19:54:29,960 - asr: 48000
+2025-05-13 19:54:29,960 - Generated original filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250208.mp4
+2025-05-13 19:54:29,961 - Received parameters: download_video:
+2025-05-13 19:54:29,961 - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 19:54:29,961 - url: https://www.facebook.com/officialtimballard/videos/1127892355216463
+2025-05-13 19:54:29,961 - task: perform_download
+2025-05-13 19:54:29,961 - metadata_path: /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 19:54:29,961 - video_download: {'cookie_path': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 19:54:29,961 - video_title: Video
+2025-05-13 19:54:29,961 - video_date: 20250208
+2025-05-13 19:54:29,961 - uploader: Tim Ballard
+2025-05-13 19:54:29,962 - duration: 173.139
+2025-05-13 19:54:29,962 - width: 1920
+2025-05-13 19:54:29,962 - height: 1080
+2025-05-13 19:54:29,962 - ext: mp4
+2025-05-13 19:54:29,962 - resolution: 1920x1080
+2025-05-13 19:54:29,962 - fps: None
+2025-05-13 19:54:29,962 - tbr: 1641.267
+2025-05-13 19:54:29,962 - protocol: https+https
+2025-05-13 19:54:29,962 - vcodec: vp09.00.40.08.00.02.02.02.00
+2025-05-13 19:54:29,962 - vbr: 1564.357
+2025-05-13 19:54:29,962 - acodec: mp4a.40.5
+2025-05-13 19:54:29,963 - abr: 76.91
+2025-05-13 19:54:29,963 - asr: 48000
+2025-05-13 19:54:29,963 - original_filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250208.mp4
+2025-05-13 19:54:29,963 - Starting download for URL: https://www.facebook.com/officialtimballard/videos/1127892355216463
+2025-05-13 19:54:29,963 - ✅ Using cookie file: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 19:54:30,726 - About to download video.
+[facebook] Extracting URL: https://www.facebook.com/officialtimballard/videos/1127892355216463
+[facebook] 1127892355216463: Downloading webpage
+[info] 1127892355216463: Downloading 1 format(s): 1013924034217265v+2023297134818187a
+[download] Destination: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250208.f1013924034217265v.mp4
+
+[download]   0.0% of   22.88MiB at  734.68KiB/s ETA 00:32
+[download]   0.0% of   22.88MiB at   26.65KiB/s ETA 14:39
+[download]   0.0% of   22.88MiB at   61.37KiB/s ETA 06:21
+[download]   0.1% of   22.88MiB at  129.71KiB/s ETA 03:00
+[download]   0.1% of   22.88MiB at  170.67KiB/s ETA 02:17
+[download]   0.3% of   22.88MiB at  233.57KiB/s ETA 01:40
+[download]   0.5% of   22.88MiB at  323.95KiB/s ETA 01:11
+[download]   1.1% of   22.88MiB at  478.78KiB/s ETA 00:48
+[download]   2.2% of   22.88MiB at  767.48KiB/s ETA 00:29
+[download]   4.4% of   22.88MiB at    1.23MiB/s ETA 00:17
+[download]   8.7% of   22.88MiB at    1.99MiB/s ETA 00:10
+[download]  17.5% of   22.88MiB at    2.97MiB/s ETA 00:06
+[download]  35.0% of   22.88MiB at    3.86MiB/s ETA 00:03
+[download]  52.4% of   22.88MiB at    4.30MiB/s ETA 00:02
+[download]  69.9% of   22.88MiB at    4.39MiB/s ETA 00:01
+[download]  87.4% of   22.88MiB at    4.42MiB/s ETA 00:00
+[download] 100.0% of   22.88MiB at    4.79MiB/s ETA 00:00
+[download] 100% of   22.88MiB in 00:00:12 at 1.90MiB/s   
+[download] Destination: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250208.f2023297134818187a.m4a
+
+[download]   0.1% of    1.59MiB at  665.66KiB/s ETA 00:02
+[download]   0.2% of    1.59MiB at  432.49KiB/s ETA 00:03
+[download]   0.4% of    1.59MiB at  742.82KiB/s ETA 00:02
+[download]   0.9% of    1.59MiB at    1.15MiB/s ETA 00:01
+[download]   1.9% of    1.59MiB at    2.02MiB/s ETA 00:00
+[download]   3.9% of    1.59MiB at    3.48MiB/s ETA 00:00
+[download]   7.8% of    1.59MiB at    5.69MiB/s ETA 00:00
+[download]  15.7% of    1.59MiB at    1.65MiB/s ETA 00:00
+[download]  31.4% of    1.59MiB at    2.41MiB/s ETA 00:00
+[download]  62.9% of    1.59MiB at    3.48MiB/s ETA 00:00
+[download] 100.0% of    1.59MiB at    5.12MiB/s ETA 00:00
+[download] 100% of    1.59MiB in 00:00:00 at 2.01MiB/s   
+[Merger] Merging formats into "/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250208.mp4"
+Deleting original file /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250208.f1013924034217265v.mp4 (pass -k to keep)
+Deleting original file /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250208.f2023297134818187a.m4a (pass -k to keep)
+2025-05-13 19:54:49,599 - Video download completed.
+2025-05-13 19:54:49,606 - Download completed in 19.64 seconds
+2025-05-13 19:54:49,712 - Params saved to JSON file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250208.json
+2025-05-13 19:54:49,712 - ✅ Download complete: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250208.mp4
+/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250208.mp4
+2025-05-13 19:54:49,857 - 📦 Task metadata updated.
+/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250208.mp4
+
+2025-05-13 19:54:50,001 - INFO - 🛠 Tasks to evaluate: ['perform_download', 'apply_watermark', 'make_clips', 'extract_audio', 'generate_captions', 'post_processed']
+2025-05-13 19:54:54,424 - INFO - Logging initialized.
+2025-05-13 19:54:54,425 - INFO - 🖼 Processing video file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250208.mp4
+2025-05-13 19:54:54,426 - INFO - Loaded metadata from: metadata/Tim_Ballard_20250208.json
+2025-05-13 19:54:54,426 - INFO - Starting watermarking process...
+2025-05-13 19:58:07,750 - INFO - Logging initialized.
+2025-05-13 19:58:07,791 - INFO - 🔁 Task Router Started
+2025-05-13 19:58:07,864 - INFO - 📥 No completed download or metadata found — running downloader...
+2025-05-13 19:58:07,864 - INFO - 📥 Initiating download for: https://www.facebook.com/100044614771436/videos/pcb.1181530900010725/1321648585926187
+2025-05-13 19:58:08,392 - INFO - Logging initialized.
+2025-05-13 19:58:08,393 - INFO - 🔴 Starting task: perform_download
+2025-05-13 19:58:08,393 - INFO - ✅ Download directory ready: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 19:58:08,393 - INFO - ➡️ Facebook video detected.
+2025-05-13 19:58:08,393 - INFO - Masking metadata
+2025-05-13 19:58:08,393 - INFO - Received parameters for metadata extraction:
+2025-05-13 19:58:08,393 - INFO - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 19:58:08,393 - INFO - url: https://www.facebook.com/100044614771436/videos/pcb.1181530900010725/1321648585926187
+2025-05-13 19:58:08,393 - INFO - task: perform_download
+2025-05-13 19:58:08,393 - INFO - metadata_path: /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 19:58:08,393 - INFO - video_download: {'cookie_path': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 19:58:08,394 - INFO - ✅ Using cookie file: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 19:58:15,088 - INFO - Metadata saved to /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 19:58:15,096 - INFO - Extracted and normalized metadata:
+2025-05-13 19:58:15,098 - INFO - video_title: Video
+2025-05-13 19:58:15,098 - INFO - video_date: 20250205
+2025-05-13 19:58:15,099 - INFO - uploader: Tim Ballard
+2025-05-13 19:58:15,099 - INFO - duration: 5.41
+2025-05-13 19:58:15,099 - INFO - width: 480
+2025-05-13 19:58:15,099 - INFO - height: 600
+2025-05-13 19:58:15,100 - INFO - ext: mp4
+2025-05-13 19:58:15,100 - INFO - resolution: 480x600
+2025-05-13 19:58:15,100 - INFO - fps: None
+2025-05-13 19:58:15,100 - INFO - tbr: 519.978
+2025-05-13 19:58:15,100 - INFO - protocol: https+https
+2025-05-13 19:58:15,100 - INFO - vcodec: av01.0.04M.08.0.111.01.01.01.0
+2025-05-13 19:58:15,100 - INFO - vbr: 445.27
+2025-05-13 19:58:15,101 - INFO - acodec: mp4a.40.5
+2025-05-13 19:58:15,101 - INFO - abr: 74.708
+2025-05-13 19:58:15,101 - INFO - asr: 44100
+2025-05-13 19:58:15,144 - INFO - Generated original filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205.mp4
+2025-05-13 19:58:15,144 - INFO - Received parameters: download_video:
+2025-05-13 19:58:15,145 - INFO - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 19:58:15,145 - INFO - url: https://www.facebook.com/100044614771436/videos/pcb.1181530900010725/1321648585926187
+2025-05-13 19:58:15,145 - INFO - task: perform_download
+2025-05-13 19:58:15,145 - INFO - metadata_path: /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 19:58:15,146 - INFO - video_download: {'cookie_path': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 19:58:15,146 - INFO - video_title: Video
+2025-05-13 19:58:15,146 - INFO - video_date: 20250205
+2025-05-13 19:58:15,146 - INFO - uploader: Tim Ballard
+2025-05-13 19:58:15,146 - INFO - duration: 5.41
+2025-05-13 19:58:15,147 - INFO - width: 480
+2025-05-13 19:58:15,147 - INFO - height: 600
+2025-05-13 19:58:15,147 - INFO - ext: mp4
+2025-05-13 19:58:15,147 - INFO - resolution: 480x600
+2025-05-13 19:58:15,147 - INFO - fps: None
+2025-05-13 19:58:15,147 - INFO - tbr: 519.978
+2025-05-13 19:58:15,148 - INFO - protocol: https+https
+2025-05-13 19:58:15,148 - INFO - vcodec: av01.0.04M.08.0.111.01.01.01.0
+2025-05-13 19:58:15,148 - INFO - vbr: 445.27
+2025-05-13 19:58:15,149 - INFO - acodec: mp4a.40.5
+2025-05-13 19:58:15,149 - INFO - abr: 74.708
+2025-05-13 19:58:15,149 - INFO - asr: 44100
+2025-05-13 19:58:15,149 - INFO - original_filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205.mp4
+2025-05-13 19:58:15,149 - INFO - Starting download for URL: https://www.facebook.com/100044614771436/videos/pcb.1181530900010725/1321648585926187
+2025-05-13 19:58:15,150 - INFO - ✅ Using cookie file: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 19:58:15,150 - DEBUG - yt-dlp options: {'outtmpl': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205.mp4', 'format': 'bestvideo+bestaudio/best', 'noplaylist': True, 'verbose': True, 'cookiefile': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 19:58:15,800 - INFO - About to download video.
+2025-05-13 19:58:21,491 - INFO - Video download completed.
+2025-05-13 19:58:21,496 - INFO - Download completed in 6.35 seconds
+2025-05-13 19:58:21,604 - INFO - Params saved to JSON file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205.json
+2025-05-13 19:58:21,604 - INFO - ✅ Download complete: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205.mp4
+2025-05-13 19:58:21,749 - INFO - 📦 Task metadata updated.
+2025-05-13 19:58:21,848 - INFO - Download stdout:
+2025-05-13 19:58:08,392 - Logging initialized.
+2025-05-13 19:58:08,393 - 🔴 Starting task: perform_download
+2025-05-13 19:58:08,393 - ✅ Download directory ready: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 19:58:08,393 - ➡️ Facebook video detected.
+2025-05-13 19:58:08,393 - Masking metadata
+2025-05-13 19:58:08,393 - Received parameters for metadata extraction:
+2025-05-13 19:58:08,393 - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 19:58:08,393 - url: https://www.facebook.com/100044614771436/videos/pcb.1181530900010725/1321648585926187
+2025-05-13 19:58:08,393 - task: perform_download
+2025-05-13 19:58:08,393 - metadata_path: /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 19:58:08,393 - video_download: {'cookie_path': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 19:58:08,394 - ✅ Using cookie file: /home/fritz/Desktop/teton/conf/cookies.txt
+[facebook] Extracting URL: https://www.facebook.com/100044614771436/videos/pcb.1181530900010725/1321648585926187
+[facebook] 1321648585926187: Downloading webpage
+2025-05-13 19:58:15,088 - Metadata saved to /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 19:58:15,096 - Extracted and normalized metadata:
+2025-05-13 19:58:15,098 - video_title: Video
+2025-05-13 19:58:15,098 - video_date: 20250205
+2025-05-13 19:58:15,099 - uploader: Tim Ballard
+2025-05-13 19:58:15,099 - duration: 5.41
+2025-05-13 19:58:15,099 - width: 480
+2025-05-13 19:58:15,099 - height: 600
+2025-05-13 19:58:15,100 - ext: mp4
+2025-05-13 19:58:15,100 - resolution: 480x600
+2025-05-13 19:58:15,100 - fps: None
+2025-05-13 19:58:15,100 - tbr: 519.978
+2025-05-13 19:58:15,100 - protocol: https+https
+2025-05-13 19:58:15,100 - vcodec: av01.0.04M.08.0.111.01.01.01.0
+2025-05-13 19:58:15,100 - vbr: 445.27
+2025-05-13 19:58:15,101 - acodec: mp4a.40.5
+2025-05-13 19:58:15,101 - abr: 74.708
+2025-05-13 19:58:15,101 - asr: 44100
+2025-05-13 19:58:15,144 - Generated original filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205.mp4
+2025-05-13 19:58:15,144 - Received parameters: download_video:
+2025-05-13 19:58:15,145 - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 19:58:15,145 - url: https://www.facebook.com/100044614771436/videos/pcb.1181530900010725/1321648585926187
+2025-05-13 19:58:15,145 - task: perform_download
+2025-05-13 19:58:15,145 - metadata_path: /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 19:58:15,146 - video_download: {'cookie_path': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 19:58:15,146 - video_title: Video
+2025-05-13 19:58:15,146 - video_date: 20250205
+2025-05-13 19:58:15,146 - uploader: Tim Ballard
+2025-05-13 19:58:15,146 - duration: 5.41
+2025-05-13 19:58:15,147 - width: 480
+2025-05-13 19:58:15,147 - height: 600
+2025-05-13 19:58:15,147 - ext: mp4
+2025-05-13 19:58:15,147 - resolution: 480x600
+2025-05-13 19:58:15,147 - fps: None
+2025-05-13 19:58:15,147 - tbr: 519.978
+2025-05-13 19:58:15,148 - protocol: https+https
+2025-05-13 19:58:15,148 - vcodec: av01.0.04M.08.0.111.01.01.01.0
+2025-05-13 19:58:15,148 - vbr: 445.27
+2025-05-13 19:58:15,149 - acodec: mp4a.40.5
+2025-05-13 19:58:15,149 - abr: 74.708
+2025-05-13 19:58:15,149 - asr: 44100
+2025-05-13 19:58:15,149 - original_filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205.mp4
+2025-05-13 19:58:15,149 - Starting download for URL: https://www.facebook.com/100044614771436/videos/pcb.1181530900010725/1321648585926187
+2025-05-13 19:58:15,150 - ✅ Using cookie file: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 19:58:15,800 - About to download video.
+[facebook] Extracting URL: https://www.facebook.com/100044614771436/videos/pcb.1181530900010725/1321648585926187
+[facebook] 1321648585926187: Downloading webpage
+[info] 1321648585926187: Downloading 1 format(s): 1427341088424969v+1640978019890962a
+[download] Destination: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205.f1427341088424969v.mp4
+
+[download]   0.3% of  291.70KiB at  887.50KiB/s ETA 00:00
+[download]   1.0% of  291.70KiB at   25.99KiB/s ETA 00:11
+[download]   2.4% of  291.70KiB at   59.78KiB/s ETA 00:04
+[download]   5.1% of  291.70KiB at  126.08KiB/s ETA 00:02
+[download]  10.6% of  291.70KiB at  140.40KiB/s ETA 00:01
+[download]  21.6% of  291.70KiB at  214.65KiB/s ETA 00:01
+[download]  43.5% of  291.70KiB at  306.12KiB/s ETA 00:00
+[download]  87.4% of  291.70KiB at  487.82KiB/s ETA 00:00
+[download] 100.0% of  291.70KiB at  534.03KiB/s ETA 00:00
+[download] 100% of  291.70KiB in 00:00:01 at 236.15KiB/s 
+[download] Destination: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205.f1640978019890962a.m4a
+
+[download]   2.0% of   50.21KiB at  843.92KiB/s ETA 00:00
+[download]   6.0% of   50.21KiB at  818.88KiB/s ETA 00:00
+[download]  13.9% of   50.21KiB at    1.23MiB/s ETA 00:00
+[download]  29.9% of   50.21KiB at    1.99MiB/s ETA 00:00
+[download]  61.7% of   50.21KiB at    3.41MiB/s ETA 00:00
+[download] 100.0% of   50.21KiB at    4.35MiB/s ETA 00:00
+[download] 100% of   50.21KiB in 00:00:00 at 120.22KiB/s 
+[Merger] Merging formats into "/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205.mp4"
+Deleting original file /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205.f1427341088424969v.mp4 (pass -k to keep)
+Deleting original file /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205.f1640978019890962a.m4a (pass -k to keep)
+2025-05-13 19:58:21,491 - Video download completed.
+2025-05-13 19:58:21,496 - Download completed in 6.35 seconds
+2025-05-13 19:58:21,604 - Params saved to JSON file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205.json
+2025-05-13 19:58:21,604 - ✅ Download complete: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205.mp4
+/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205.mp4
+2025-05-13 19:58:21,749 - 📦 Task metadata updated.
+/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205.mp4
+
+2025-05-13 19:58:21,849 - INFO - 🛠 Tasks to evaluate: ['perform_download', 'apply_watermark', 'make_clips', 'extract_audio', 'generate_captions', 'post_processed']
+2025-05-13 19:58:24,999 - INFO - Logging initialized.
+2025-05-13 19:58:25,001 - INFO - 🖼 Processing video file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205.mp4
+2025-05-13 19:58:25,001 - INFO - Loaded metadata from: metadata/Tim_Ballard_20250205.json
+2025-05-13 19:58:25,002 - INFO - Starting watermarking process...
+2025-05-13 19:58:33,015 - INFO - ✅ Watermarked video created: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205_watermarked.mp4
+2025-05-13 19:58:33,017 - DEBUG - default_tasks updated: {'perform_download': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205.mp4', 'apply_watermark': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205_watermarked.mp4', 'make_clips': True, 'extract_audio': True, 'generate_captions': True, 'post_processed': False}
+2025-05-13 20:01:44,296 - INFO - Logging initialized.
+2025-05-13 20:01:44,297 - INFO - 🔁 Task Router Started
+2025-05-13 20:01:44,298 - INFO - 📥 No completed download or metadata found — running downloader...
+2025-05-13 20:01:44,298 - INFO - 📥 Initiating download for: https://www.facebook.com/officialtimballard/videos/1144764533864738
+2025-05-13 20:01:44,909 - INFO - Logging initialized.
+2025-05-13 20:01:44,910 - INFO - 🔴 Starting task: perform_download
+2025-05-13 20:01:44,910 - INFO - ✅ Download directory ready: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 20:01:44,910 - INFO - ➡️ Facebook video detected.
+2025-05-13 20:01:44,911 - INFO - Masking metadata
+2025-05-13 20:01:44,911 - INFO - Received parameters for metadata extraction:
+2025-05-13 20:01:44,911 - INFO - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 20:01:44,911 - INFO - url: https://www.facebook.com/officialtimballard/videos/1144764533864738
+2025-05-13 20:01:44,911 - INFO - task: perform_download
+2025-05-13 20:01:44,911 - INFO - metadata_path: /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 20:01:44,911 - INFO - video_download: {'cookie_path': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 20:01:44,911 - INFO - ✅ Using cookie file: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 20:01:48,588 - INFO - Metadata saved to /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 20:01:48,591 - INFO - Extracted and normalized metadata:
+2025-05-13 20:01:48,591 - INFO - video_title: Video
+2025-05-13 20:01:48,592 - INFO - video_date: 20250205
+2025-05-13 20:01:48,592 - INFO - uploader: Tim Ballard
+2025-05-13 20:01:48,592 - INFO - duration: 80.872
+2025-05-13 20:01:48,592 - INFO - width: 720
+2025-05-13 20:01:48,592 - INFO - height: 1280
+2025-05-13 20:01:48,592 - INFO - ext: mp4
+2025-05-13 20:01:48,592 - INFO - resolution: 720x1280
+2025-05-13 20:01:48,592 - INFO - fps: None
+2025-05-13 20:01:48,592 - INFO - tbr: 377.31100000000004
+2025-05-13 20:01:48,592 - INFO - protocol: https+https
+2025-05-13 20:01:48,592 - INFO - vcodec: vp09.00.31.08.00.01.01.01.00
+2025-05-13 20:01:48,593 - INFO - vbr: 304.807
+2025-05-13 20:01:48,593 - INFO - acodec: mp4a.40.5
+2025-05-13 20:01:48,593 - INFO - abr: 72.504
+2025-05-13 20:01:48,593 - INFO - asr: 44100
+2025-05-13 20:01:48,593 - INFO - Generated original filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205_1.mp4
+2025-05-13 20:01:48,594 - INFO - Received parameters: download_video:
+2025-05-13 20:01:48,594 - INFO - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 20:01:48,594 - INFO - url: https://www.facebook.com/officialtimballard/videos/1144764533864738
+2025-05-13 20:01:48,594 - INFO - task: perform_download
+2025-05-13 20:01:48,594 - INFO - metadata_path: /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 20:01:48,594 - INFO - video_download: {'cookie_path': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 20:01:48,594 - INFO - video_title: Video
+2025-05-13 20:01:48,594 - INFO - video_date: 20250205
+2025-05-13 20:01:48,594 - INFO - uploader: Tim Ballard
+2025-05-13 20:01:48,594 - INFO - duration: 80.872
+2025-05-13 20:01:48,594 - INFO - width: 720
+2025-05-13 20:01:48,595 - INFO - height: 1280
+2025-05-13 20:01:48,595 - INFO - ext: mp4
+2025-05-13 20:01:48,595 - INFO - resolution: 720x1280
+2025-05-13 20:01:48,595 - INFO - fps: None
+2025-05-13 20:01:48,595 - INFO - tbr: 377.31100000000004
+2025-05-13 20:01:48,595 - INFO - protocol: https+https
+2025-05-13 20:01:48,595 - INFO - vcodec: vp09.00.31.08.00.01.01.01.00
+2025-05-13 20:01:48,595 - INFO - vbr: 304.807
+2025-05-13 20:01:48,595 - INFO - acodec: mp4a.40.5
+2025-05-13 20:01:48,595 - INFO - abr: 72.504
+2025-05-13 20:01:48,595 - INFO - asr: 44100
+2025-05-13 20:01:48,595 - INFO - original_filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205_1.mp4
+2025-05-13 20:01:48,596 - INFO - Starting download for URL: https://www.facebook.com/officialtimballard/videos/1144764533864738
+2025-05-13 20:01:48,596 - INFO - ✅ Using cookie file: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 20:01:48,596 - DEBUG - yt-dlp options: {'outtmpl': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205_1.mp4', 'format': 'bestvideo+bestaudio/best', 'noplaylist': True, 'verbose': True, 'cookiefile': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 20:01:48,770 - INFO - About to download video.
+2025-05-13 20:01:55,425 - INFO - Video download completed.
+2025-05-13 20:01:55,433 - INFO - Download completed in 6.84 seconds
+2025-05-13 20:01:55,548 - INFO - Params saved to JSON file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205_1.json
+2025-05-13 20:01:55,549 - INFO - ✅ Download complete: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205_1.mp4
+2025-05-13 20:01:55,667 - INFO - 📦 Task metadata updated.
+2025-05-13 20:01:55,785 - INFO - Download stdout:
+2025-05-13 20:01:44,909 - Logging initialized.
+2025-05-13 20:01:44,910 - 🔴 Starting task: perform_download
+2025-05-13 20:01:44,910 - ✅ Download directory ready: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 20:01:44,910 - ➡️ Facebook video detected.
+2025-05-13 20:01:44,911 - Masking metadata
+2025-05-13 20:01:44,911 - Received parameters for metadata extraction:
+2025-05-13 20:01:44,911 - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 20:01:44,911 - url: https://www.facebook.com/officialtimballard/videos/1144764533864738
+2025-05-13 20:01:44,911 - task: perform_download
+2025-05-13 20:01:44,911 - metadata_path: /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 20:01:44,911 - video_download: {'cookie_path': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 20:01:44,911 - ✅ Using cookie file: /home/fritz/Desktop/teton/conf/cookies.txt
+[facebook] Extracting URL: https://www.facebook.com/officialtimballard/videos/1144764533864738
+[facebook] 1144764533864738: Downloading webpage
+2025-05-13 20:01:48,588 - Metadata saved to /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 20:01:48,591 - Extracted and normalized metadata:
+2025-05-13 20:01:48,591 - video_title: Video
+2025-05-13 20:01:48,592 - video_date: 20250205
+2025-05-13 20:01:48,592 - uploader: Tim Ballard
+2025-05-13 20:01:48,592 - duration: 80.872
+2025-05-13 20:01:48,592 - width: 720
+2025-05-13 20:01:48,592 - height: 1280
+2025-05-13 20:01:48,592 - ext: mp4
+2025-05-13 20:01:48,592 - resolution: 720x1280
+2025-05-13 20:01:48,592 - fps: None
+2025-05-13 20:01:48,592 - tbr: 377.31100000000004
+2025-05-13 20:01:48,592 - protocol: https+https
+2025-05-13 20:01:48,592 - vcodec: vp09.00.31.08.00.01.01.01.00
+2025-05-13 20:01:48,593 - vbr: 304.807
+2025-05-13 20:01:48,593 - acodec: mp4a.40.5
+2025-05-13 20:01:48,593 - abr: 72.504
+2025-05-13 20:01:48,593 - asr: 44100
+2025-05-13 20:01:48,593 - Generated original filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205_1.mp4
+2025-05-13 20:01:48,594 - Received parameters: download_video:
+2025-05-13 20:01:48,594 - download_path: /media/fritz/E4B0-3FC21/2025-05-13
+2025-05-13 20:01:48,594 - url: https://www.facebook.com/officialtimballard/videos/1144764533864738
+2025-05-13 20:01:48,594 - task: perform_download
+2025-05-13 20:01:48,594 - metadata_path: /home/fritz/Desktop/teton/lib/metadata/metadata.json
+2025-05-13 20:01:48,594 - video_download: {'cookie_path': '/home/fritz/Desktop/teton/conf/cookies.txt'}
+2025-05-13 20:01:48,594 - video_title: Video
+2025-05-13 20:01:48,594 - video_date: 20250205
+2025-05-13 20:01:48,594 - uploader: Tim Ballard
+2025-05-13 20:01:48,594 - duration: 80.872
+2025-05-13 20:01:48,594 - width: 720
+2025-05-13 20:01:48,595 - height: 1280
+2025-05-13 20:01:48,595 - ext: mp4
+2025-05-13 20:01:48,595 - resolution: 720x1280
+2025-05-13 20:01:48,595 - fps: None
+2025-05-13 20:01:48,595 - tbr: 377.31100000000004
+2025-05-13 20:01:48,595 - protocol: https+https
+2025-05-13 20:01:48,595 - vcodec: vp09.00.31.08.00.01.01.01.00
+2025-05-13 20:01:48,595 - vbr: 304.807
+2025-05-13 20:01:48,595 - acodec: mp4a.40.5
+2025-05-13 20:01:48,595 - abr: 72.504
+2025-05-13 20:01:48,595 - asr: 44100
+2025-05-13 20:01:48,595 - original_filename: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205_1.mp4
+2025-05-13 20:01:48,596 - Starting download for URL: https://www.facebook.com/officialtimballard/videos/1144764533864738
+2025-05-13 20:01:48,596 - ✅ Using cookie file: /home/fritz/Desktop/teton/conf/cookies.txt
+2025-05-13 20:01:48,770 - About to download video.
+[facebook] Extracting URL: https://www.facebook.com/officialtimballard/videos/1144764533864738
+[facebook] 1144764533864738: Downloading webpage
+[info] 1144764533864738: Downloading 1 format(s): 668474556108807v+1297390811475826a
+[download] Destination: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205_1.f668474556108807v.mp4
+
+[download]   0.0% of    2.26MiB at  Unknown B/s ETA Unknown
+[download]   0.1% of    2.26MiB at   29.73KiB/s ETA 01:17  
+[download]   0.3% of    2.26MiB at   68.44KiB/s ETA 00:33
+[download]   0.6% of    2.26MiB at  144.72KiB/s ETA 00:15
+[download]   1.3% of    2.26MiB at  224.79KiB/s ETA 00:10
+[download]   2.7% of    2.26MiB at  292.86KiB/s ETA 00:07
+[download]   5.5% of    2.26MiB at  418.15KiB/s ETA 00:05
+[download]  11.0% of    2.26MiB at  638.13KiB/s ETA 00:03
+[download]  22.1% of    2.26MiB at    1.02MiB/s ETA 00:01
+[download]  44.3% of    2.26MiB at    1.59MiB/s ETA 00:00
+[download]  88.6% of    2.26MiB at    2.24MiB/s ETA 00:00
+[download] 100.0% of    2.26MiB at    2.43MiB/s ETA 00:00
+[download] 100% of    2.26MiB in 00:00:01 at 1.36MiB/s   
+[download] Destination: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205_1.f1297390811475826a.m4a
+
+[download]   0.1% of  717.31KiB at  Unknown B/s ETA Unknown
+[download]   0.4% of  717.31KiB at    1.94MiB/s ETA 00:00  
+[download]   1.0% of  717.31KiB at    3.21MiB/s ETA 00:00
+[download]   2.1% of  717.31KiB at    5.51MiB/s ETA 00:00
+[download]   4.3% of  717.31KiB at    9.29MiB/s ETA 00:00
+[download]   8.8% of  717.31KiB at    9.09MiB/s ETA 00:00
+[download]  17.7% of  717.31KiB at    5.92MiB/s ETA 00:00
+[download]  35.5% of  717.31KiB at    1.61MiB/s ETA 00:00
+[download]  71.2% of  717.31KiB at    2.57MiB/s ETA 00:00
+[download] 100.0% of  717.31KiB at    3.54MiB/s ETA 00:00
+[download] 100% of  717.31KiB in 00:00:00 at 1.10MiB/s   
+[Merger] Merging formats into "/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205_1.mp4"
+Deleting original file /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205_1.f1297390811475826a.m4a (pass -k to keep)
+Deleting original file /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205_1.f668474556108807v.mp4 (pass -k to keep)
+2025-05-13 20:01:55,425 - Video download completed.
+2025-05-13 20:01:55,433 - Download completed in 6.84 seconds
+2025-05-13 20:01:55,548 - Params saved to JSON file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205_1.json
+2025-05-13 20:01:55,549 - ✅ Download complete: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205_1.mp4
+/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205_1.mp4
+2025-05-13 20:01:55,667 - 📦 Task metadata updated.
+/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205_1.mp4
+
+2025-05-13 20:01:55,786 - INFO - 🛠 Tasks to evaluate: ['perform_download', 'apply_watermark', 'make_clips', 'extract_audio', 'generate_captions', 'post_processed']
+2025-05-13 20:01:56,576 - INFO - Logging initialized.
+2025-05-13 20:01:56,578 - INFO - 🖼 Processing video file: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205_1.mp4
+2025-05-13 20:01:56,578 - INFO - Loaded metadata from: metadata/Tim_Ballard_20250205_1.json
+2025-05-13 20:01:56,578 - INFO - Starting watermarking process...
+2025-05-13 20:03:31,903 - INFO - ✅ Watermarked video created: /media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205_1_watermarked.mp4
+2025-05-13 20:03:31,904 - DEBUG - default_tasks updated: {'perform_download': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205_1.mp4', 'apply_watermark': '/media/fritz/E4B0-3FC21/2025-05-13/Tim_Ballard_20250205_1_watermarked.mp4', 'make_clips': True, 'extract_audio': True, 'generate_captions': True, 'post_processed': False}
